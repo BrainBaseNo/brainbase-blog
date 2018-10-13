@@ -3,8 +3,8 @@ import Helmet from 'react-helmet';
 import { Link, graphql } from 'gatsby'
 
 //import Tags from '../components/Tags';
-import Layout from '../components/Layout';
-import Hero from '../components/Hero';
+import Layout from '../components/layout';
+import Hero from '../components/hero';
 
 import '../components/new-design.css';
 
