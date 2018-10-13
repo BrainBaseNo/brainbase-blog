@@ -1,0 +1,23 @@
+.post {
+}
+.post h1 {
+    margin-bottom: 1rem;
+}
+.post h2 {
+    margin-bottom: 1rem;
+}
+.post p {
+    margin-bottom: 1rem;
+}
+.post a {
+    color: #ff895f;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.post a:hover {
+    background-color: #ff895f;
+    color: #ffffff;
+}
+.post__image {
+    margin-bottom: 2rem;
+}
