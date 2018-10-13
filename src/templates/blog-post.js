@@ -7,6 +7,7 @@ import Layout from '../components/layout';
 import Hero from '../components/hero';
 
 import '../components/new-design.css';
+import '../components/new-design-custom.css';
 
 export default function Template(data) {
   const post = data.data.prismicPost.data;
