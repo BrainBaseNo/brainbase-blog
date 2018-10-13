@@ -17,7 +17,7 @@ const Post = ({ post }) => (
 )
 const IndexPage = ( {data} ) => (
   <Layout>
-     <Hero />  
+     <Hero text="Fjerner behovet for mellomledd"/>  
     <section class="section">
       <div className="content-wrapper content-wrapper--medium">
       {data.allPrismicPost.edges.map((node) =>
