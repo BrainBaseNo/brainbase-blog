@@ -25,7 +25,7 @@ const Layout = ({ children }) => (
           title={data.site.siteMetadata.title}
           meta={[
             { name: 'BrainBase Blogg', content: 'Blogg post fra BrainBase - et nettverk for av selvstendige konsulenter, for selvstendige konsulenter.' },
-            { name: 'keywords', content: 'content="brainbase, selvstendig, konsulent, konsulenter, nettverk, selvstendig konsulenter, finn, bedrift, oppdrag, oslo, norge, javascript, react, angular, c#, .net, java' },
+            { name: 'keywords', content: 'content="brainbase, blogg, blog, selvstendig, konsulent, konsulenter, nettverk, selvstendig konsulenter, finn, bedrift, oppdrag, oslo, bergen, trondheim, norge, javascript, react, angular, c#, .net, java' },
           ]}
           link={[
             { rel: 'icon', href: `${icon32}` }
