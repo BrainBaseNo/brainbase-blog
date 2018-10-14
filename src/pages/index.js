@@ -8,7 +8,7 @@ const Post = ({ post , link}) => (
   <div className="card card--no-image">
     <div className="card__content-wrapper">
       <p className="subtitle">Publisert {post.node.data.post_date}</p>
-      <Link to={link} className="link"><h3 className="heading heading--level-3">{post.node.data.title.text}</h3></Link>
+      <h3 className="heading heading--level-3"><Link to={link} className="link">{post.node.data.title.text}</Link></h3>
       <p className="paragraph">{post.node.data.content.text.substring(0,300)}</p>
     </div>
   </div>
