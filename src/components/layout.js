@@ -23,21 +23,14 @@ const Layout = ({ children }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'Sample' },
-            { name: 'keywords', content: 'sample, something' },
+            { name: 'BrainBase Blogg', content: 'Blogg post fra BrainBase - et nettverk for av selvstendige konsulenter, for selvstendige konsulenter.' },
+            { name: 'keywords', content: 'Selvstendig konsulent, fjerne mellomledd, konsulent' },
           ]}
         >
           <html lang="en" />
         </Helmet>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div
-          style={{
-            margin: '0 auto',
-            paddingTop: 0,
-          }}
-        >
-          {children}
-        </div>
+        {children}
       </>
     )}
   />

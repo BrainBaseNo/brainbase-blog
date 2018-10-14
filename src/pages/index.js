@@ -1,15 +1,14 @@
 import React from 'react'
-import _ from 'lodash';
 import Layout from '../components/layout'
 import Hero from '../components/hero';
 import { graphql } from 'gatsby'
 import { Link } from '@reach/router';
 
-const Post = ({ post }) => (
+const Post = ({ post , link}) => (
   <div className="card card--no-image">
     <div className="card__content-wrapper">
       <p className="subtitle">Publisert {post.node.data.post_date}</p>
-      <Link to={post.node.uid} className="link"><h3 className="heading heading--level-3">{post.node.data.title.text}</h3></Link>
+      <Link to={link} className="link"><h3 className="heading heading--level-3">{post.node.data.title.text}</h3></Link>
       <p className="paragraph">{post.node.data.content.text.substring(0,300)}</p>
     </div>
   </div>
@@ -17,11 +16,11 @@ const Post = ({ post }) => (
 )
 const IndexPage = ( {data} ) => (
   <Layout>
-     <Hero text="Fjerner behovet for mellomledd"/>  
+     <Hero />  
     <section class="section">
       <div className="content-wrapper content-wrapper--medium">
       {data.allPrismicPost.edges.map((node) =>
-        <Post post={node} />
+        <Post post={node} link={`post/${node.node.uid}`}/>
       )}
       </div>
     </section>

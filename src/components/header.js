@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import './new-design.css';
 import {logo} from '../images/brain-white-64.png';
 
@@ -7,7 +6,7 @@ const Header = ({ siteTitle }) => (
   <header className="site-header site-header--green-bg">
     <div className="site-header__site-name">
         <a className="site-header__site-name-link" href="/">
-            <img className="site-header__site-name-logo" src={logo} />
+            <img className="site-header__site-name-logo" alt="" src={logo} />
             <span className="site-header__site-name-text">BrainBase Blogg</span>
         </a>
     </div>
