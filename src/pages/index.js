@@ -1,22 +1,31 @@
 import React from 'react'
+import _ from 'lodash';
 import Layout from '../components/layout'
 import Hero from '../components/hero';
 import { graphql } from 'gatsby'
 import { Link } from '@reach/router';
+import { getFormattedDate } from '../components/dateUtil';
 
-const Post = ({ post , link}) => (
-  <div className="card card--no-image">
-    <div className="card__content-wrapper">
-      <p className="subtitle">Publisert {post.node.data.post_date}</p>
-      <h3 className="heading heading--level-3"><Link to={link} className="link">{post.node.data.title.text}</Link></h3>
-      <p className="paragraph">{post.node.data.content.text.substring(0,300)}</p>
+const Post = ({ post , link}) => {
+  const formattedDate = getFormattedDate(post.node.data.post_date);
+  const excerpt = _.truncate(post.node.data.content.text, {
+    'length': 300,
+    'separator': ' '
+  });
+  return(
+    <div className="card card--no-image">
+      <div className="card__content-wrapper">
+        <h3 className="heading heading--level-3"><Link to={link} className="link">{post.node.data.title.text}</Link></h3>
+        <p className="subtitle">Publisert: {formattedDate}</p>
+        <p className="paragraph">{excerpt}</p>
+      </div>
     </div>
-  </div>
+  );
+}
 
-)
 const IndexPage = ( {data} ) => (
   <Layout>
-     <Hero />  
+     <Hero title="Fjerner behovet for mellomledd"/>  
     <section class="section">
       <div className="content-wrapper content-wrapper--medium">
       {data.allPrismicPost.edges.map((node) =>

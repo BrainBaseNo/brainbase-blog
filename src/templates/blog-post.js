@@ -5,22 +5,22 @@ import { graphql } from 'gatsby'
 //import Tags from '../components/Tags';
 import Layout from '../components/layout';
 import Hero from '../components/hero';
-//import { getFormattedDate } from '../general/dateUtil';
+import { getFormattedDate } from '../components/dateUtil';
 
 import '../components/new-design.css';
 import '../components/new-design-custom.css';
 
 export default function Template(data) {
   const post = data.data.prismicPost.data;
+  const formattedDate = getFormattedDate(post.post_date);
   return (
     <Layout>
-      <Hero />
+      <Hero title={post.title.text}/>
       <section className="section">
         <div className="content-wrapper content-wrapper--medium">
           <Helmet title={`Gatsby Blog`} />
           <div className="post">
-            <h1 className="heading heading--level-1">{post.title.text}</h1>
-            <p className="subtitle">Publisert: {post.post_date}</p>
+            <p className="subtitle">Publisert: {formattedDate}</p>
             <div dangerouslySetInnerHTML={{ __html: post.content.html }}/>
           </div>
         </div>
