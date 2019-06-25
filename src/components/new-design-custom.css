@@ -9,6 +9,10 @@
 .post p {
     margin-bottom: 1rem;
 }
+.post ul {
+    margin: 20px;
+}
+
 .post a {
     color: #ff895f;
     cursor: pointer;

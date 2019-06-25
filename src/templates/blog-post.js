@@ -21,7 +21,7 @@ export default function Template(data) {
           <Helmet title={`Gatsby Blog`} />
           <div className="post">
             <p className="subtitle">Publisert: {formattedDate}</p>
-            <div dangerouslySetInnerHTML={{ __html: post.content.html }}/>
+            <article dangerouslySetInnerHTML={{ __html: post.content.html }} />
           </div>
         </div>
       </section>
