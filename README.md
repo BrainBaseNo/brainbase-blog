@@ -1,12 +1,6 @@
-<p align="center">
-  <a href="https://next.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  BrainBase Blogg
-</h1>
-The Blog is built on Gatsby + Prismic (CMS) and runs on [Netlify] (https://netlify.com). 
+# BrainBase Blogg
+ 
+ This Blog is built on Gatsby + Prismic (CMS) and runs on [Netlify] (https://netlify.com). 
 
 _This blog is based on a a starter template [gatsby-starter-default] https://github.com/gatsbyjs/gatsby-starter-default_
 
