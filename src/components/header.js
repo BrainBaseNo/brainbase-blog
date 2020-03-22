@@ -14,7 +14,7 @@ const Header = ({ siteTitle }) => (
     <div className="site-header__toolbar">
         <ul className="site-menu">
             <li className="site-menu__item">
-                <a className="site-menu__link site-menu__link--active" href="https://www.brainbase.no/">Til BrainBase.no</a>
+                <a className="site-menu__link site-menu__link--active" href="https://www.brainbase.no/">BrainBase.no</a>
             </li>
         </ul>
     </div>
