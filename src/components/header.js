@@ -1,7 +1,7 @@
 import React from 'react'
 import './new-design.css'
 
-const logo = require('../images/brain-white-64.png')
+const logo = require('../../assets/images/brain-white-64.png')
 
 const Header = ({ siteTitle }) => (
   <header className="site-header site-header--green-bg">

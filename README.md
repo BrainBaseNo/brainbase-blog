@@ -1,8 +1,38 @@
 # BrainBase Blogg
  
- This Blog is built on Gatsby + Prismic (CMS) and runs on [Netlify] (https://netlify.com). 
+ This Blog is built on Gatsby and runs on [Netlify] (https://netlify.com). 
 
 _This blog is based on a a starter template [gatsby-starter-default] https://github.com/gatsbyjs/gatsby-starter-default_
+
+## Writing blogg post
+
+Step-by-step guide:
+1. Go to `/blog`
+1. Create a folder with a descriptive name like this: `first-blog-post` this will be the url path to the blog post.
+2. Inside of the created folder create a file called `index.md` with the layout:
+```
+    ---
+    title: First Blog Post
+    date: "YYYY-MM-DDT12:00:00.000Z"
+    description: "My first blog post"
+    ---
+
+    [The blogs content go here]
+
+    Add images like this:
+
+    ![Image Description](./image_name.jpg) // Add image files in the same folder as index.md
+
+    Add links like this:
+
+    [BrainBase](https://brainbase.no)
+
+    Add emojis like this:
+
+    :smile:
+
+```
+4. Write the blog post and commit it to the repository. 
 
 ## Local development
 
