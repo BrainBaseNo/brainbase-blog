@@ -8,8 +8,8 @@ _This blog is based on a a starter template [gatsby-starter-default] https://git
 
 Step-by-step guide:
 1. Go to `/blog`
-1. Create a folder with a descriptive name like this: `first-blog-post` this will be the url path to the blog post.
-2. Inside of the created folder create a file called `index.md` with the layout:
+2. Create a folder with a descriptive name like this: `first-blog-post` this will be the url path to the blog post.
+3. Inside of the created folder create a file called `index.md` with the layout:
 ```
     ---
     title: First Blog Post
@@ -42,9 +42,8 @@ Step-by-step guide:
 
     The Gatsby CLI helps you create new sites using Gatsby starters (like this one!)
 
-    ```sh
-    # install the Gatsby CLI globally
-    npm install -g gatsby-cli
+    ```
+    npm install -g gatsby-cli // -g for global install
     ```
 
 
