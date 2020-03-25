@@ -6,10 +6,10 @@ _This blog is based on a a starter template [gatsby-starter-default] https://git
 
 ## Writing blogg post
 
-Step-by-step guide:
-1. Go to `/blog`
-2. Create a folder with a descriptive name like this: `first-blog-post` this will be the url path to the blog post.
-3. Inside of the created folder create a file called `index.md` with the layout:
+Step-by-step guide:  
+1.  Go to `/blog`  
+2.  Create a folder with a descriptive name like this: `first-blog-post` this will be the url path to the blog post.  
+3.  Inside of the created folder create a file called `index.md` with the layout:  
 ```
     ---
     title: First Blog Post
@@ -31,8 +31,8 @@ Step-by-step guide:
 
     :smile:
 
-```
-4. Write the blog post and commit it to the repository. 
+```  
+4.  Write the blog post and commit it to the repository.  
 
 ## Local development
 
