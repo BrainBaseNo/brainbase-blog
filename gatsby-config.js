@@ -8,18 +8,19 @@ module.exports = {
     * plugins. Here the site sources its data from prismic.io.
     */
     {
-      resolve: "gatsby-source-prismic",
+      resolve: 'gatsby-source-prismic',
       options: {
         // The name of your prismic.io repository. This is required.
         // Example: 'gatsby-source-prismic-test-site' if your prismic.io address
         // is 'gatsby-source-prismic-test-site.prismic.io'.
-        repositoryName: "brainblog",
+        repositoryName: 'brainblog',
 
         // An API access token to your prismic.io repository. This is required.
         // You can generate an access token in the "API & Security" section of
         // your repository settings. Setting a "Callback URL" is not necessary.
         // The token will be listed under "Permanent access tokens".
-        accessToken: "MC5XN2huVlJJQUFDb0FRMGZV.77-9X03vv73vv73vv73vv73vv73vv70l77-9N--_vT_vv71b77-977-977-9dO-_ve-_vUvvv73vv73vv71UH--_ve-_vXYc",
+        accessToken:
+          'MC5XN2huVlJJQUFDb0FRMGZV.77-9X03vv73vv73vv73vv73vv73vv70l77-9N--_vT_vv71b77-977-977-9dO-_ve-_vUvvv73vv73vv71UH--_ve-_vXYc',
 
         // Set a link resolver function used to process links in your content.
         // Fields with rich text formatting or links to internal content use this
@@ -47,11 +48,14 @@ module.exports = {
         // different HTML serializer logic for each field if necessary.
         // See: https://prismic.io/docs/nodejs/beyond-the-api/html-serializer
         htmlSerializer: ({ node, key, value }) => (
-          (type, element, content, children) => {
-            // Your HTML serializer
-          }
-        ),
-      }
+          type,
+          element,
+          content,
+          children
+        ) => {
+          // Your HTML serializer
+        },
+      },
     },
     'gatsby-plugin-react-helmet',
     {
@@ -67,5 +71,12 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`poppins`],
+        display: 'swap',
+      },
+    },
   ],
 }

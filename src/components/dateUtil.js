@@ -1,6 +1,6 @@
-import moment from 'moment';
+import moment from 'moment'
 
 export function getFormattedDate(date) {
-    moment.locale('nb')
-    return moment(date).format("DD.MM.YYYY");
+  moment.locale('nb')
+  return moment(date).format('DD.MM.YYYY')
 }

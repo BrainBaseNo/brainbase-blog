@@ -1,20 +1,20 @@
 const path = require('path')
- 
+
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
- 
+
   const pages = await graphql(`
     {
       allPrismicPost {
         edges {
           node {
             uid
-            data{
+            data {
               title {
                 html
                 text
               }
-              post_date 
+              post_date
               content {
                 html
                 text
@@ -25,14 +25,14 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `)
- 
-  const blogPostTemplate = path.resolve(`src/templates/blog-post.js`);
+
+  const blogPostTemplate = path.resolve(`src/templates/blog-post.js`)
   pages.data.allPrismicPost.edges.forEach(edge => {
     createPage({
       path: `post/${edge.node.uid}`,
       component: blogPostTemplate,
       context: {
-        uid: edge.node.uid
+        uid: edge.node.uid,
       },
     })
   })
