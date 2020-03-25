@@ -1,12 +1,13 @@
 import React from 'react'
 import './new-design.css';
-import {logo} from '../images/brain-white-64.png';
+
+const logo = require('../images/brain-white-64.png');
 
 const Header = ({ siteTitle }) => (
   <header className="site-header site-header--green-bg">
     <div className="site-header__site-name">
         <a className="site-header__site-name-link" href="/">
-            <img className="site-header__site-name-logo" alt="" src={logo} />
+            <img className="site-header__site-name-logo" alt="brainbase logo" src={logo} />
             <span className="site-header__site-name-text">BrainBase Blogg</span>
         </a>
     </div>
