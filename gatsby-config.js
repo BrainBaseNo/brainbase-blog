@@ -71,6 +71,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    'gatsby-remark-emoji',
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
