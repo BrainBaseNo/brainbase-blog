@@ -10,4 +10,4 @@ Forrige uke lanserte vi en ny plattform for konsulenter og bedrifter som ønsker
 
 Siden vi selv er konsulenter har vårt motto hele veien vært: "Never screw the consultant". Vi vet av erfaring at mange mellommann-selskap gjerne tar 10-20% cut av timeprisen til konsulenter for ikke å gjøre stort mer enn å finne et oppdrag. Til stor frustrasjon for mange. Vi hadde ikke lyst til å være en del av det problemet. Vi vil snakke mer om det i senere innlegg.
 
-Vi ønsker bedrifter velkomne til å jobbe med oss neste gang de skal finne en konsulent, og vi ønsker selvstendige IT-konsulenter velkomne til bli en del av vårt nettverk. Det eneste nettverket for selvstendige konsulenter som også er bygget av selvstendige konsulenter. Det eneste nettverket som tar 0% cut av timeprisen. Velkommen til BrainBase.
+Vi ønsker bedrifter velkomne til å jobbe med oss neste gang de skal finne en konsulent, og vi ønsker selvstendige IT-konsulenter velkomne til bli en del av vårt nettverk. Det eneste nettverket for selvstendige konsulenter som også er bygget av selvstendige konsulenter. Det eneste nettverket som tar 0% cut av timeprisen. Velkommen til [BrainBase](https://brainbase.no).

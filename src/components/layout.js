@@ -4,9 +4,9 @@ import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
 import Header from './header'
-//import './layout.css'
-import './new-design.css'
 import icon32 from '../../assets/favicon.ico'
+
+import './new-design.css'
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -19,7 +19,7 @@ const Layout = ({ children }) => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <>
         <Helmet
           title={data.site.siteMetadata.title}

@@ -6,8 +6,7 @@ import { getFormattedDate } from '../utils/dateUtil'
 
 const Post = ({ post, link }) => {
   const formattedDate = getFormattedDate(post.node.frontmatter.date)
-  console.log(link);
-  
+
   return (
     <div className="card card--no-image">
       <div className="card__content-wrapper">
@@ -26,10 +25,14 @@ const Post = ({ post, link }) => {
 const IndexPage = ({ data }) => (
   <Layout>
     <Hero title="Fjerner behovet for mellomledd" />
-    <section class="section">
+    <section className="section">
       <div className="content-wrapper content-wrapper--medium">
-        {data.allMarkdownRemark.edges.map(node => (
-          <Post post={node} link={`post/${node.node.fields.slug}`} />
+        {data.allMarkdownRemark.edges.map((node) => (
+          <Post
+            post={node}
+            link={`/post${node.node.fields.slug}`}
+            key={node.node.frontmatter.title + node.node.frontmatter.date}
+          />
         ))}
       </div>
     </section>
@@ -53,7 +56,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date
             title
             description
           }

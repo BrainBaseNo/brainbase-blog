@@ -38,9 +38,7 @@ module.exports = {
         footnotes: true,
         pedantic: true,
         gfm: true,
-        plugins: [
-          `gatsby-remark-emoji`,
-        ],
+        plugins: [`gatsby-remark-emoji`],
       },
     },
   ],

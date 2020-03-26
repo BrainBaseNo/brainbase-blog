@@ -3,7 +3,7 @@ import './new-design.css'
 
 const logo = require('../../assets/images/brain-white-64.png')
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
   <header className="site-header site-header--green-bg">
     <div className="site-header__site-name">
       <a className="site-header__site-name-link" href="/">

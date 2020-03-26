@@ -1,62 +1,62 @@
 import React from 'react'
-// import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 
-//import Tags from '../components/Tags';
 import Layout from '../components/layout'
 import Hero from '../components/hero'
 import { getFormattedDate } from '../utils/dateUtil'
 
-import '../components/new-design.css'
-import '../components/new-design-custom.css'
+import './blog-post-layout.css'
 
-export default function Template({data, pageContext}) {
+export default function Template({ data, pageContext }) {
   const post = data.markdownRemark
   const formattedDate = getFormattedDate(post.frontmatter.date)
   const { previous, next } = pageContext
 
   return (
     <Layout>
-      <article>
-      <Hero title={post.frontmatter.title} />
-      <header>
-          <h1>
-            {post.frontmatter.title}
-          </h1>
-          <p>
-            {formattedDate}
-          </p>
-        </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+      <Hero title={post.frontmatter.title} date={formattedDate} />
+      <article className="content-wrapper content-wrapper--medium">
+        <section
+          className="section post"
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
+        <hr className="horizontal-rule" />
       </article>
 
-      <nav>
+      <nav className="content-wrapper">
         <ul
           style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
+            display: 'flex',
+            flexWrap: 'wrap',
+            justifyContent: 'space-between',
+            listStyle: 'none',
+            padding: '0 0 2rem 0',
           }}
         >
           <li>
             {previous && (
-              <Link to={`post/${previous.fields.slug}`} rel="prev">
+              <Link
+                to={`/post${previous.fields.slug}`}
+                rel="prev"
+                className="link link-button"
+              >
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={`post/${next.fields.slug}`} rel="next">
+              <Link
+                to={`/post${next.fields.slug}`}
+                rel="next"
+                className="link link-button"
+              >
                 {next.frontmatter.title} →
               </Link>
             )}
           </li>
         </ul>
       </nav>
-
     </Layout>
   )
 }
@@ -70,11 +70,11 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
+      excerpt
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         description
       }
     }
