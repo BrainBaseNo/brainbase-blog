@@ -1,0 +1,66 @@
+.post h1 {
+    margin-bottom: 1rem;
+}
+
+.post h2 {
+    margin-bottom: 0.5rem;
+}
+
+.post h3 {
+    margin-bottom: 0.5rem;
+}
+
+.post h4 {
+    margin-bottom: 0.5rem;
+}
+
+.post h5 {
+    margin-bottom: 0.5rem;
+}
+.post h6 {
+    margin-bottom: 0.5rem;
+}
+
+.post p {
+    margin-bottom: 1.25rem;
+}
+
+.post ul {
+    margin: 0 2rem;
+}
+
+.post ol {
+    margin: 0 2rem;
+}
+
+.post a {
+    color: #ff895f;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.post a:hover {
+    background-color: #ff895f;
+    color: #ffffff;
+}
+
+.post img {
+    margin-bottom: 1rem;
+    max-width: 660px;
+}
+
+.post blockquote {
+    border-left: 0.25rem solid #ff895f;
+}
+
+.post blockquote p {
+    font-style: italic;
+    padding-left: 1.25rem;
+};
+
+.post hr {
+    margin: 2rem 0.1rem;
+    border: 0;
+    height: 1px;
+    background: linear-gradient(90deg, #fff, #ff895f, #fff);
+}

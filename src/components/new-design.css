@@ -500,6 +500,7 @@ textarea {
 @media (min-width: 430px) {
   .site-header__site-name-text {
     display: inline;
+    vertical-align: middle;
   }
 }
 .site-header__site-name:hover {
