@@ -54,10 +54,15 @@ export const pageQuery = graphql`
           excerpt(pruneLength: 250)
           fields {
             slug
+            readingTime {
+              time
+            }
           }
           frontmatter {
             date
             title
+            author
+            author_image
             description
           }
         }

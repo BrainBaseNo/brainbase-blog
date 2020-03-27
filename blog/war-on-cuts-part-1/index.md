@@ -1,6 +1,8 @@
 ---
 title: War on Cuts, Del 1 - Konsulentens perspektiv
 date: "2017-07-02T12:00:00.000Z"
+author: "Ketil Jensen"
+author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
 description: "War on Cuts - Konsulentens perspektiv"
 ---
 

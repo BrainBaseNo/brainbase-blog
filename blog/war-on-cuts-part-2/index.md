@@ -1,6 +1,8 @@
 ---
 title: War on Cuts, Del 1 - Kundens perspektiv
 date: "2018-04-01T12:00:00.000Z"
+author: "Ketil Jensen"
+author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
 description: "War on Cuts -Kundens perspektiv"
 ---
 
