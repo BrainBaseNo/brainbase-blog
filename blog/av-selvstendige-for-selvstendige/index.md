@@ -2,7 +2,7 @@
 title: Av selvstendige, for selvstendige
 date: "2019-11-25T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA""
+author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
 description: "Av selvstendige, for selvstendige"
 ---
 
