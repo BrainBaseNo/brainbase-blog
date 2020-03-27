@@ -16,6 +16,8 @@ Step-by-step guide:
     ---
     title: First Blog Post
     date: "YYYY-MM-DDT12:00:00.000Z"
+    author: "YOUR NAME HERE"
+    author_image: "URL TO IMAGE" // Have to be square
     description: "My first blog post"
     ---
 

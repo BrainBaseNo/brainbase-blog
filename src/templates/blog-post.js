@@ -2,25 +2,41 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
-import Hero from '../components/hero'
-import { getFormattedDate } from '../utils/dateUtil'
+import { getFormattedDate, getFormattedReadingTime } from '../utils/dateUtil'
 
 import './blog-post-layout.css'
 
 export default function Template({ data, pageContext }) {
   const post = data.markdownRemark
   const formattedDate = getFormattedDate(post.frontmatter.date)
+  const formattedReadingTime = getFormattedReadingTime(
+    post.fields.readingTime.time
+  )
   const { previous, next } = pageContext
 
   return (
     <Layout>
-      <Hero title={post.frontmatter.title} date={formattedDate} />
       <article className="content-wrapper content-wrapper--medium">
-        <section
-          className="section post"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-        <hr className="horizontal-rule" />
+        <div className="section">
+          <header className="post">
+            <h1>{post.frontmatter.title}</h1>
+            <div className="post-meta">
+              <img src={post.frontmatter.author_image} alt="image of author" />
+              <div>
+                <p>{post.frontmatter.author}</p>
+                <p>
+                  {formattedDate} &middot; {formattedReadingTime} min
+                </p>
+              </div>
+            </div>
+          </header>
+
+          <section
+            className="post"
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
+          <hr className="horizontal-rule" />
+        </div>
       </article>
 
       <nav className="content-wrapper">
@@ -75,7 +91,14 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date
+        author
+        author_image
         description
+      }
+      fields {
+        readingTime {
+          time
+        }
       }
     }
   }

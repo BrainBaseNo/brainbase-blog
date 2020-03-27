@@ -1,6 +1,8 @@
 ---
 title: Hva koster din broker deg?
 date: "2018-10-01T12:00:00.000Z"
+author: "Ketil Jensen"
+author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
 description: "Hva koster din broker deg"
 ---
 

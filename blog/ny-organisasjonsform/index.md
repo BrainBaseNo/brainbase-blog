@@ -1,10 +1,10 @@
 ---
 title: En ny måte å jobbe sammen på
 date: "2019-06-25T12:00:00.000Z"
+author: "Ketil Jensen"
+author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
 description: "En ny måte å jobbe sammen på"
 ---
-
-![IMAGE DESCRIPTION](https://www.brainbase.no/public/images/logo/brain-green-dark-64.png)
 
 BrainBase er et nettverk av konsulenter, for konsulenter. Vi jobber hele tiden for å bli mer transparente, ha et større samarbeid mellom medlemmer og gjøre det enklere å få gjort ting. Derfor har vi bestemt oss for å teste ut en ny struktur på måten vi jobber på.
 

@@ -1,10 +1,9 @@
 import React from 'react'
 
-const Hero = ({ title, date }) => (
+const Hero = ({ title }) => (
   <header className="section section--green-bg">
-    <div className="content-wrapper" style={{ minHeight: '96px' }}>
+    <div className="content-wrapper">
       <h1 className="heading heading--level-1">{title}</h1>
-      {date && <p style={{ paddingLeft: '1rem' }}>Publisert: {date}</p>}
     </div>
   </header>
 )
