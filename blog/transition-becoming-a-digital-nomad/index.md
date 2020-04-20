@@ -1,3 +1,11 @@
+---
+title: Living a life as a sailing self-employed software developertert modell
+date: "2020-05-20T16:00:00.000Z"
+author: "Marte Løge"
+author_image: "https://miro.medium.com/max/4000/1*TXCA46fcEcvetmrim_rldQ.jpeg"
+description: "Ny og oppdatert modell"
+---
+
 # Living a life as a sailing self-employed software developer
 
 Marte is a self-employed programmer living in her sailboat "Hello World" in the caribbean.
