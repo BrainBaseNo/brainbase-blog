@@ -7,11 +7,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'BrainBase blogg',
+        short_name: 'BrainBase blogg',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#6bab90',
+        theme_color: '#6bab90',
         display: 'minimal-ui',
         icon: `${__dirname}/assets/images/brain-green-dark-64.png`,
       },
