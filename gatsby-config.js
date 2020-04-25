@@ -16,6 +16,21 @@ module.exports = {
         icon: `${__dirname}/assets/images/brain-green-dark-64.png`,
       },
     },
+    {
+      resolve: `gatsby-plugin-csp`,
+      options: {
+        disableOnDev: false,
+        mergeStyleHashes: false,
+        directives: {
+          'default-src': "'self'",
+          'font-src': "'self' fonts.gstatic.com",
+          'script-src': "'self' 'unsafe-eval' www.google-analytics.com",
+          'style-src': "'self' 'unsafe-inline' fonts.googleapis.com",
+          'img-src':
+            "'self' data: *.medium.com *.licdn.com www.google-analytics.com",
+        },
+      },
+    },
     'gatsby-plugin-offline',
     {
       resolve: `gatsby-source-filesystem`,
