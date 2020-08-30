@@ -2,35 +2,36 @@
 title: En ny måte å jobbe sammen på
 date: "2019-06-25T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
+author_image: ""
 description: "En ny måte å jobbe sammen på"
 ---
 
-BrainBase er et nettverk av konsulenter, for konsulenter. Vi jobber hele tiden for å bli mer transparente, ha et større samarbeid mellom medlemmer og gjøre det enklere å få gjort ting. Derfor har vi bestemt oss for å teste ut en ny struktur på måten vi jobber på.
+Brainbase er et nettverk av konsulenter, for konsulenter. Vi jobber hele tiden for å øke samarbeidet mellom medlemmer og gjøre det enklere å få gjort ting. Derfor har vi bestemt oss for å teste ut en ny struktur å jobbe på.
 
-For å jobbe mer effektivt og unngå flaskehalser, har vi invitert alle i nettverket til å både ta valg og gjennomføre arbeidsoppgaver på vegne av BrainBase. Vi har blitt inspirert av LiquidO og vil at medlemmene i nettverket skal være med på å bestemme hva vi skal bruke både tid og penger på. 
+For å jobbe mer effektivt og unngå flaskehalser, har vi invitert alle i nettverket til å både ta avgjørelser og gjennomføre arbeidsoppgaver på vegne av Brainbase. Vi har blitt inspirert av LiquidO og vil at alle i nettverket skal være med på å bestemme hva vi skal bruke både tid og penger på.
 
 ### Overskuddet skal tilbake til nettverket
-Når folk finner jobb og oppdrag gjennom oss, tar vi mellom 2 % og 3 % av kontraktsverdien. Det er den beste modellen og siden det ikke er noen som tar ut lønn eller eksterne aktører som tar ut overskudd fra BrainBase, vil vi at alt av overskudd forblir i nettverket. Derfor vil vi bruke inntektene vi får inn til å lønne folk som jobber for oss. Fint for folk som er mellom to oppdrag, eller som er nye som selvstendig konsulenter.  
+Når folk finner jobb og oppdrag gjennom oss, tar vi tre prosent av kontraktsverdien. Det er den rimeligste og mest rettferdige modellen på markedet. Det er ingen i Brainbase som tar ut lønn, og vi har heller ikke noen eksterne aktører eller investorer som krever en del av overskuddet. Derfor vil vi at alt overskudd blir i nettverket. En del av inntektene som nettverket har, vil vi bruke på å lønne folk som jobber for oss. Små oppdrag som er perfekt for folk som er mellom to oppdrag, eller som er helt nye som selvstendig konsulenter.  
 
 ### Ideer og aktiviteter
-Vi har allerede satt opp et Trello-brett med en oversikt over aktiviteter i nettverket. Alle medlemmer kan legge til sine egne ideer, som for eksempler å skrive flere bloggposter eller legge til nye funksjoner i plattformen. Så er det resten av nettverket som stemmer og bestemmer om ideen høres bra ut eller ikke. Målet er å gjøre BrainBase til ett mer demokratisk nettverk, der alle stiller likt uavhengig av yrke, erfaring eller tilknytning til organisasjonen.
+Vi har et Trello-brett som vi bruker til å oversikt over aktivitetene i nettverket. Alle medlemmer kan legge til sine egne ideer, som for eksempler å skrive flere bloggposter eller legge til nye funksjoner i plattformen. Så er det resten av nettverket som stemmer og bestemmer om ideen høres bra ut eller ikke. Målet er å gjøre Brainbase mer demokratisk, der alle stiller likt uavhengig av yrke, erfaring eller tilknytning til nettverket.
 
 ### Samarbeid og beslutninger
-For å ta en beslutning prøver vi ut “lazy voting”. Målet er større samarbeid og likestilling mellom medlemmene, uavhengig av erfaring, egenskaper eller eierskap til organisasjonen. “Lazy voting” er en enkel måte å ta en beslutning på. 
-
+For å ta en beslutning prøver vi ut lazy voting. Målet er større samarbeid mellom medlemmene, uavhengig av erfaring, egenskaper eller eierskap til organisasjonen. Lazy voting er en enkel måte å ta en beslutning på.
 Vi har fire typer stemmer:
 
 * +1: Tommel opp og man kan gjerne hjelpe til.
 
 * +0: Tommel opp, men man kan ikke hjelpe til.
 
-* -0: Tommel ned, men man hindrer ikke ideen.
+* -0: Tommel ned, men man stopper ikke ideen.
 
-* -1: Tommel ned og veto. Kaster man et veto, må man legge til hvorfor man vil stoppe ideen. Veto uten årsak telles ikke.
+* -1: Tommel ned og veto. Kaster man veto, må man si hvorfor man vil stoppe ideen.
 
-Vi setter en tidsramme for å stemme, og foretrekker korte tidsperioder siden det gjør at beslutningene blir tatt raskere. For aktiviteter som kun går over en uke eller mindre, er som regel 48 timer nok tid å ta en beslutning på. 
+Veto uten grunn telles ikke.
 
-Er det en bra idé og den blir stemt frem av nettverket, estimerer vi og setter av et budsjett for å gjennomføre den. Da er det bare for medlemmer å velge en oppgave de vil jobbe på, og sette i gang. Timeprisen vi bruker på disse oppgavene er 1000 kroner i timen, uavhengig av om du er UX designer, frontend-utvikler eller tester.
+Vi setter en tidsramme for å stemme, og foretrekker korte tidsperioder siden det gjør at beslutningene blir tatt raskere. For aktiviteter som kun tar en uke eller mindre, er som regel 48 timer nok tid å ta en avgjørelse på.
 
-Vi starter med å ta i bruk fellestavle for aktiviteter, med felles beslutningstagning og bidragsbudsjett. Fremover kommer vi til å fortsette med å eksperimentere med nye måter å samarbeide på. Målet vårt er å gjøre BrainBase til ett mer demokratisk nettverk, der alle stiller likt uavhengig av yrke, erfaring eller tilknytning til organisasjonen.
+Er ideen bra og den blir stemt frem av nettverket, estimerer vi og setter av et budsjett for å gjennomføre den. Da er det bare for medlemmer å velge en oppgave de vil jobbe på, og sette i gang. Timeprisen vi bruker på disse oppgavene er 1000 kroner i timen, som gjelder både for UX design, utvikling eller testing.
+
+Vi starter med å ta i bruk felles tavle for aktiviteter, med felles beslutninger og budsjett. Fremover kommer vi til å fortsette med å eksperimentere enda mer med nye måter å samarbeide på.
