@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-csp`,
       options: {
-        disableOnDev: false,
+        disableOnDev: true,
         mergeStyleHashes: false,
         directives: {
           'default-src': "'self'",
