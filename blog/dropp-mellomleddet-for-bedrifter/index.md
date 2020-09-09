@@ -2,7 +2,7 @@
 title: Dropp mellomleddet  — for bedrifter
 date: "2018-04-01T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Dropp mellomleddet  — for bedrifter"
 ---
 

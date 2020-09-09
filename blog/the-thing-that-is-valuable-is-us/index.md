@@ -2,7 +2,7 @@
 title: The thing that is valuable is us
 date: "2018-04-09T12:00:00.000Z"
 author: "Alex York"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/ng17HXn1eX/profilePicture.jpg"
 description: The thing that is valuable is us"
 ---
 

@@ -2,7 +2,7 @@
 title: Det er tid for en endring
 date: "2018-10-15T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Det er tid for en endring"
 ---
 I innlegget "Hva koster megleren din deg?" skrev vi litt om hvor mye det egentlig koster å leie inn konsulenter gjennom konsulenthus og -meglere. I et hett marked dukker det stadig opp nye aktører som ønsker lettjente penger. Noen av aktørene driver kun med formidling av oppdrag og konsulenter. Andre er konsulentselskaper som setter opp selskaper for å formidle underleverandører på sine eksisterende avtaler. Gjerne gjennom en plattform som i prinsippet blir en forlengelse av morselskapet, for å gjøre tilgang på konsulenter større. Felles for alle disse er at de først og fremst ønsker en større del av kaken.

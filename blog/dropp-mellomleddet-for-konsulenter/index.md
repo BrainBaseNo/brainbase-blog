@@ -2,7 +2,7 @@
 title: Dropp mellomleddet - for konsulenter
 date: "2017-07-02T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Dropp mellomleddet - for konsulenter"
 ---
 

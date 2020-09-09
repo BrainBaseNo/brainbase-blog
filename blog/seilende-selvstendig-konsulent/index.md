@@ -2,7 +2,7 @@
 title: Livet som seilende og selvstendig konsulent
 date: "2020-04-20T12:00:00.000Z"
 author: "Marte Løge"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/wLHqS1oHnq/profilePicture.jpg"
 description: "Livet som seilende og selvstendig konsulent"
 ---
 

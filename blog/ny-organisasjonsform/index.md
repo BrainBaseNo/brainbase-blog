@@ -2,7 +2,7 @@
 title: En ny måte å jobbe sammen på
 date: "2019-06-25T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "En ny måte å jobbe sammen på"
 ---
 

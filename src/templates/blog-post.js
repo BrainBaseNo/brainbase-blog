@@ -14,8 +14,6 @@ export default function Template({ data, pageContext }) {
   )
   const { previous, next } = pageContext
 
-  //Todo: Fix profile image when we have a good solution for that.
-  //<img src={post.frontmatter.author_image} alt="image of author" />
   return (
     <Layout>
       <article className="content-wrapper content-wrapper--medium">
@@ -23,6 +21,7 @@ export default function Template({ data, pageContext }) {
           <header className="post">
             <h1>{post.frontmatter.title}</h1>
             <div className="post-meta">
+            <img src={post.frontmatter.author_image} alt="image of author" />
               <div>
                 <p>{post.frontmatter.author}</p>
                 <p>

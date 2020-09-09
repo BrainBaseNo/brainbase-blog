@@ -2,7 +2,7 @@
 title: Ny oppdatert modell
 date: "2020-04-04T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Ny og oppdatert modell"
 ---
 
