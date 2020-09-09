@@ -21,7 +21,7 @@ export default function Template({ data, pageContext }) {
           <header className="post">
             <h1>{post.frontmatter.title}</h1>
             <div className="post-meta">
-            <img src={post.frontmatter.author_image} alt="image of author" />
+            <img src={post.frontmatter.author_image} alt="author" />
               <div>
                 <p>{post.frontmatter.author}</p>
                 <p>
