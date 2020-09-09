@@ -2,30 +2,38 @@
 title: Ny oppdatert modell
 date: "2020-04-04T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: "https://media-exp1.licdn.com/dms/image/C4D03AQEtsLuoCfqvNg/profile-displayphoto-shrink_800_800/0?e=1590624000&v=beta&t=n_0ZlKHx2fzESqDE80S2Hen142alaUiy3C3E6M-6cJA"
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Ny og oppdatert modell"
 ---
 
-BrainBase vokser stadig, både i forhold til antall konsulenter i nettverket og i antall avtaler med bedrifter. Å drifte og utvikle nettverket tar derfor mer og mer tid. En ting som står fast er at vi ønsker å være et nettverk som er drevet av selvstendige konsulenter. Fra og med 20.mars har vi derfor gjort noen endringer på modellen vår for å hjelpe oss i veksten, samt at vi tydeliggjør mekanismene for deling av overskudd. Flere av disse tingene har vi eksperimentert med allerede, som for eksempel 1-1-1 modellen, betalt arbeid på plattformen mm. Modellen som blir gjeldende fra og med i dag er en videreføring av ting vi har prøvd før. Vi mener modellen er fair. Den gir en mulighet for alle å bidra og å få noe igjen for arbeid man gjør, på flere forskjellige måter. 
+Brainbase vokser støtt og stadig, og nå har vi både enda flere konsulenter i nettverket og flere avtaler med bedrifter. Det å drifte og utvikle nettverket tar derfor mer tid. Vi ønsker fremdeles å være et nettverk som drives av selvstendige konsulenter.
+
+Fra 20. mars gjør vi noen endringer på modellen vår. Vi gjør det for gjøre det enklere for nettverket å vokse. I tillegg blir det tydeligere hvordan vi deler overskuddet. Vi har allerede eksperimentert med noe av dette tidligere, som modellen vår og hvordan vi arbeider på plattformen.
+
+Den nye modellen er en videreføring av ting vi allerede har testet. Målet er at alle medlemmer i nettverket kan bidra og å få noe igjen for arbeid man gjør.
 
 ## Modellen:
-97% av timeprisen som kunden betaler går til konsulenten. 3% går til BrainBase*. 
+Kjapt oppsummert: 97 prosent av timeprisen som kunden betaler går til konsulenten, og 3 prosent går til Brainbase.
 
-BrainBase er et nettvek som ikke er drevet av profitt, men av et ønske om å bygge et nettverk hvor konsulenter hjelper hverandre i alt som har med livet som selvstendig konsulent å gjøre. Målet vårt er å lede overskuddet tilbake til medlemmene av nettverket for vekst og videreutvikling.
-Vi ønsker å fordele inntekter i nettverket tilbake til medlemmer i nettverket gjennom 3 ulike mekanismer:
+Brainbase drives ikke av profitt, men av et ønske om å bygge et nettverk der konsulenter hjelper hverandre i livet som selvstendig konsulent. Målet vårt er å føre overskuddet tilbake til medlemmene i nettverket, og bruke til vekst og videreutvikling.
 
-* 1 av 3 % går til medlemmet i nettverket som hjelper en annen ut i oppdraget.
-* Medlemmer kan få betalt for å løse oppgaver på plattformen.
-* Utbytte til eiere på plattformen.
+Vi fordeler inntektene nettverket har tilbake til medlemmene, på tre måter:
 
-### 1 av 3 % går til medlemmet i nettverket som hjelper en annen ut i oppdraget.
-Medlemmer får betalt for å hjelpe andre konsulenter inn i oppdrag. Vår plattform gjør det enkelt å administrere dette.
-Kommentar: BrainBase har i dag en god del avtaler med både private og offentlige bedrifter/organisasjoner. Å hjelpe noen ut i arbeid krever gjerne litt arbeid og vi syns de som gjør denne jobben skal få noe igjen for det. Mange har allerede fått 1% kickback når de har hjulpet andre ut i et oppdrag. Nå ønsker vi å ta dette et steg videre og fordele noen av de avtalene vi allerede har til konsulenter i nettverket som har lyst til å bidra med dette og få en potensiell sideinntekt. De siste månedene har vi fått mange mye avtaler med f.eks Statnett, NHN, DFØ for å nevne noen. Disse avtalen ønsker vi nå å fordele ut til de som har lyst til å bidra. Meld interesse for dette enten ved å si at du er interessert i kanalen #customer-activity eller send en DM til @ketilj dersom du har lyst til å bidra på noen av disse avtalene og få 1%.
+* 1 av 3 prosent går til de som hjelper andre med å finne oppdrag.
+* Medlemmer får betalt for å jobbe med plattformen.
+* Utbytte til medeiere i nettverket.
 
-### Medlemmer kan få betalt for å løse oppgaver på plattformen.
-Oppgavene blir publisert som andre oppdrag på vår plattform og vil være “outcome oriented”.
-Kommentar: Slike oppgaver vil bli publisert på BrainBase plattformen på lik linje med andre oppdrag. Forskjellen vil være at i stedet for å være en jobb der en får betalt per time vil vi sette av en sum med penger som vi har lyst til å bruke for å løse et problem. Selv om det ikke er store penger det er snakk om for disse oppgavene kan dette være en fin ekstra inntekt dersom en er mellom oppdrag eller om man har lyst til å tjene noen ekstra kroner. Første oppgaven vil bli publisert ila noen dager. 
+### 1 av 3 prosent går til de som hjelper andre med å finne oppdrag
+Medlemmer får en liten bonus for å hjelpe andre konsulenter med å finne nye oppdrag. Plattformen vår gjør det enkelt å styre dette.
 
-### Utbytte til eiere på plattformen.
-Alle medlemmer i nettverket vil få mulighet til å bli medeiere i BrainBase gjennom jevnlige emisjoner. Hovedmålet med disse emisjonene er å få flere medlemmer med som medeiere i nettverket, og ved dette få en følelse av medeierskap. Eiere får utbetalt utbytte som belønning for å hjelpe nettverket med å vokse.
-Alle detaljer om modellen er publisert på brainbase.no/modell, med et forbedret UI. Den nye modellen gjelder for nye avtaler. Eksisterende avtaler følger den modellen som gjaldt ved avtaleinngåelse.
+Å hjelpe noen med å finne nye prosjekter, krever ofte litt jobb. Vi syns at de som gjør denne jobben skal få noe igjen for det. Mange har allerede fått 1 % kickback når de har hjulpet andre ut i et oppdrag. Nå tar vi dette et steg videre, og fordeler de avtalene vi allerede har til konsulenter i nettverket som har lyst til å forvalte avtalene og få en liten sideinntekt.
+
+### Medlemmer får betalt for å jobbe med plattformen.
+Oppgavene og prosjektene vi trenger hjelp til, blir publisert som andre oppdrag på plattformen vår.
+
+Vi setter av et budsjett som vi har lyst til å bruke for å løse et problem. Tidligere har dette vært redesign av nettsiden vår, eller å sørge for en bedre teknisk flyt. Selv om det ikke er store penger det er snakk om, er det en fin ekstra inntekt dersom en er mellom oppdrag eller bare har lyst til å bidra til nettverket.
+
+### Utbytte til eiere i nettverket
+Alle medlemmer i nettverket får mulighet til å bli medeiere gjennom jevnlige emisjoner. Hovedmålet med disse emisjonene er å få flere medlemmer til å bli mer involvert i nettverket, og ved øke følelsen av medeierskap.
+
+Eiere får utbetalt utbytte som belønning for å hjelpe nettverket med å vokse.
