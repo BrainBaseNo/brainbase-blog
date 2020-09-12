@@ -1,8 +1,8 @@
 # BrainBase Blogg
  
- This Blog is built on Gatsby and runs on [Netlify] (https://netlify.com). 
+ This Blog is built on Gatsby and runs on [Netlify](https://netlify.com). 
 
-_This blog is based on a a starter template [gatsby-starter-default] https://github.com/gatsbyjs/gatsby-starter-default_
+_This blog is based on a a starter template [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default)_
 
 ## Writing a blog post
 
