@@ -2,7 +2,7 @@
 title: Hva koster megleren din deg?
 date: "2018-10-01T12:00:00.000Z"
 author: "Ketil Jensen"
-author_image: ""
+author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Hva koster megleren din deg"
 ---
 
