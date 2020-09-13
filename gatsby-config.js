@@ -40,7 +40,7 @@ module.exports = {
           'script-src': "'self' 'unsafe-eval' www.google-analytics.com",
           'style-src': "'self' 'unsafe-inline' fonts.googleapis.com",
           'img-src':
-            "'self' data: *.medium.com *.licdn.com www.google-analytics.com",
+            "'self' data: *.brainbase.no *.medium.com *.licdn.com www.google-analytics.com",
         },
       },
     },
