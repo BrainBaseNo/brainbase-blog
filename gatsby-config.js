@@ -19,6 +19,17 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        // Available options and their defaults:
+        base64Width: 20,
+        forceBase64Format: ``, // valid formats: png,jpg,webp
+        useMozJpeg: process.env.GATSBY_JPEG_ENCODER === `MOZJPEG`,
+        stripMetadata: true,
+        defaultQuality: 50,
+      },
+    },
+    {
       resolve: `gatsby-plugin-csp`,
       options: {
         disableOnDev: true,
@@ -55,7 +66,14 @@ module.exports = {
         footnotes: true,
         pedantic: true,
         gfm: true,
-        plugins: [`gatsby-remark-emoji`, `gatsby-remark-reading-time`],
+        plugins: [`gatsby-remark-emoji`, `gatsby-remark-reading-time`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 590,
+            }
+          }  
+        ],
       },
     },
     {

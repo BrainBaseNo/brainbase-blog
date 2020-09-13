@@ -1,6 +1,5 @@
 import React from 'react'
 import Layout from '../components/layout'
-import Hero from '../components/hero'
 import { Link, graphql } from 'gatsby'
 import { getFormattedDate } from '../utils/dateUtil'
 
@@ -24,9 +23,8 @@ const Post = ({ post, link }) => {
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <Hero title="Fjerner behovet for mellomledd" />
     <section className="section">
-      <div className="content-wrapper content-wrapper--medium">
+      <div className="content-wrapper">
         {data.allMarkdownRemark.edges.map((node) => (
           <Post
             post={node}

@@ -8,7 +8,7 @@ description: "Fem fordeler med selvstendige konsulenter"
 
 Det er mange fordeler med å leie inn selvstendige konsulenter, i stedet for å gå til konsulenthus eller bruke meglere som formidler konsulenter. Her er fem gode grunner til at bedriften din bør se etter selvstendige neste gang dere trenger hjelp til både korte og lange prosjekt.
 
-![Fem fordeler](https://www.brainbase.no/public/images/misc/fem-fordeler.png)
+![Fem fordeler](./fem-fordeler.png)
 
 ###Høy kompetanse
 Når dere leier inn konsulenter direkte, uten mellomledd og meglere, velger dere selv hvem dere leier inn. Dere kan håndplukke de beste kandidatene, som gjør det lettere å finne akkurat den kompetansen dere trenger.
