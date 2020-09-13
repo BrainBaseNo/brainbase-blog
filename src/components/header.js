@@ -1,33 +1,25 @@
 import React from 'react'
 import './new-design.css'
 
-const logo = require('../../assets/images/brain-white-64.png')
-
 const Header = () => (
-  <header className="site-header site-header--green-bg">
-    <div className="site-header__site-name">
-      <a className="site-header__site-name-link" href="/">
-        <img
-          className="site-header__site-name-logo"
-          alt="brainbase logo"
-          src={logo}
-        />
-        <span className="site-header__site-name-text">BrainBase Blogg</span>
-      </a>
-    </div>
-
-    <div className="site-header__toolbar">
-      <ul className="site-menu">
-        <li className="site-menu__item">
-          <a
-            className="site-menu__link site-menu__link--active"
-            href="https://www.brainbase.no/"
-          >
-            BrainBase.no
-          </a>
-        </li>
-      </ul>
-    </div>
+  <header className="site-header">
+      <div className="content-wrapper site-header__content">
+          <div className="site-header__site-name">
+              <a className="site-header__site-name-link" href="/">
+                  <img
+                      className="site-header__site-name-logo"
+                      src="https://www.brainbase.no/public/images/logo/brain-green-dark-64.png"
+                      alt=""
+                  />
+                  <span className="site-header__site-name-text">BrainBase</span>
+              </a>
+          </div>
+          <div className="site-header__toolbar">
+            <a href="https://www.brainbase.no/" className="typography__link">
+                BrainBase.no
+            </a>
+          </div>
+      </div>
   </header>
 )
 
