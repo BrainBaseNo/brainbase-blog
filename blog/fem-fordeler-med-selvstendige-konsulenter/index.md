@@ -1,43 +1,121 @@
 ---
-title: Fem fordeler med selvstendige konsulenter
-date: "2020-09-08T12:00:00.000Z"
+title: Resultatene fra årets undersøkelse
+date: "2020-09-25T12:00:00.000Z"
 author: "Karina Raunholm"
 author_image: "https://www.brainbase.no/profile-images/Ww4GUQ3lzb/profilePicture.jpg"
-description: "Fem fordeler med selvstendige konsulenter"
+description: "Årets undersøkelse i nettverket"
 ---
 
-Det er mange fordeler med å leie inn selvstendige konsulenter, i stedet for å gå til konsulenthus eller bruke meglere som formidler konsulenter. Her er fem gode grunner til at bedriften din bør se etter selvstendige neste gang dere trenger hjelp til både korte og lange prosjekt.
+Det er to år siden vi gjennomførte forrige undersøkelse. Arbeidslivet har endret seg mye siden da, og spesielt det siste halve året. Samtidig ser vi at flere velger å bli selvstendige konsulenter. Vi var nysgjerrige på hvorfor folk vil jobbe for seg selv, og hvordan livet som selvstendig er akkurat nå.
 
-![Fem fordeler](./fem-fordeler.png)
+![Presentasjon av undersøkelse](./Undersokelse.png)
 
-###Høy kompetanse
-Når dere leier inn konsulenter direkte, uten mellomledd og meglere, velger dere selv hvem dere leier inn. Dere kan håndplukke de beste kandidatene, som gjør det lettere å finne akkurat den kompetansen dere trenger.
+###Innsamling og datagrunnlag
 
-Arbeidserfaring og fartstid blant konsulentene i nettverket vårt er i gjennomsnitt 13 år. Det er flinke folk som holder seg faglig oppdatert for sin egen del, og de fleste er seniorer innenfor sitt fagfelt. Det er en stor kontrast til mange konsulenthus, som ofte sender med et par juniorer i teamene de selger inn.
+Vi sendte ut undersøkelsen internt i nettverket, på både e-post og på Slack. 125 personer svarte på undersøkelsen, omtrent 30 % av nettverket. De fleste som svarte på undersøkelsen jobber som utviklere, og dette gjenspeiler også balansen i nettverket. Vi sendte ut undersøkelsen i starten av august, den var åpen i en måned.
 
-Vi hjelper ofte bedrifter med å finne kompetansen de trenger. Uansett om dere velger å gjøre hele jobben med å finne konsulenter selv, eller kun vil se et utvalg av profiler, så kan dere være helt trygg på at det er folk som faktisk kan sakene sine.
+87,5 % av de som svarte på undersøkelsen jobber hovedsakelig med utvikling, mens 6,5 % jobber med design og innhold, og 6 % rådgivning og ledelse.
 
-###Motivasjon
-Konsulenter som driver for seg selv, gjør det fordi de trives med det de driver med! De er stolte av yrket sitt og motiverte for å gjøre en god jobb — enten det er å utvikle, skrive, designe, lede eller planlegge.
+Alle spørsmål om rolle, erfaring og oppdrag var obligatoriske, mens fritekstspørsmålene om livet som konsulent var valgfritt å svare på.
 
-De motiveres også av å levere et bra produkt. De er avhengige av gode resultater og et godt omdømme for å få ny oppdrag, eller fortsette på prosjektet de jobber med.
+###Kort oppsummert
+Gjennomsnittskonsulenten i nettverket har **12 års arbeidserfaring**, og har **vært selvstendig i 2,8 år**. Konsulenten **jobber 38 timer i uken**, og bruker **10 timer i måneden på faglig utvikling**. I det nåværende prosjektet eller oppdraget har konsulenten en **timepris på 1170 kroner**.
 
-###Lojalitet
-Når en selvstendig konsulent velger oppdrag, er det som regel fordi de syns at bedriften din og oppdraget ser interessant ut. Det gir en mye lavere risiko for turnover, fordi konsulenten faktisk vil jobbe med dere. Mange av konsulentene i nettverket har jobbet med enkelte bedrifter i flere år. Det er hovedsakelig fordi de trives med bedriften eller prosjektet de jobber på.
+###Livet som selvstendig konsulent
+Vi lurte på hva som var gjorde at folk valgte å ta steget over til å bli selvstendig konsulent. Her var det mulig å krysse av flere alternativer.
 
-Og det er ingen risiko for at konsulenten du har leid inn plutselig forsvinner, eller blir byttet ut midt i et prosjekt. Kontrakten er jo direkte mellom bedriften din og konsulenten.
+![Hvorfor konsulent](./Survey-01.png)
 
-###Fleksibilitet
-Selvstendige konsulenter er ofte mer fleksible med tanke på tid og tilgjengelighet. De styrer tiden sin selv, og må ikke forholde seg til en arbeidsgiver som også vil sette de på andre prosjekter.
+Vi ba konsulentene beskrive med egne ord om hva de mener er fordelene med å være selvstendig. Selv om bedre lønn og det å være sin egen sjef ser ut til å være det viktigste for det å bli selvstendige, er det ordet som ble brukt flest ganger **frihet**. 58 de 113 som svarte på dette spørsmålet nevner det som en av de viktigste fordelene.
 
-De strekker seg ofte litt lengre, og vil at samarbeidet skal fungere best mulig for begge parter. Uten mellomledd og byråkrati blir det også enklere å ta beslutninger.
+Svarene vi fikk var samstemte, og handler om;
 
-Det vi hører fra medlemmene i nettverket, er at team fra konsulenthus ofte danner klikker og blir sittende for seg selv. Mens de selvstendige konsulentene i mindre grad danner klikker, og derfor sklir bedre inn med resten av de ansatte.  
+- Større frihet
+- Økt fleksibilitet
+- Være sin egen sjef
+- Bedre lønn
+- Valgfrihet knyttet til prosjekter og oppdrag
+- Relevant kompetanseheving
+- Mindre byråkrati og møter
 
-###Billigere
+####Sagt med egne ord
 
-Det er lønnsomt å leie inn selvstendige konsulenter direkte. Det er først og fremst mye penger å spare når man dropper mellomleddet. Meglere eller andre som står mellom bedriften din og konsulenter, legger gjerne på en avgift på mellom 7 og 30 prosent av timeprisen til konsulenten. Det blir fort dyrt.
+Frihet til å velge prosjekter selv. Frihet til å disponere din tid selv. Slippe å betale for tjenester du ikke bruker som ansatt i konsulentselskap.
 
-I tillegg er timeprisen selvstendige konsulenter som regel litt lavere enn i konsulenthus. Det betyr at dere faktisk kan leie inn seniorer som er billigere en junior i et byrå. I tillegg kan velger dere jo konsulentene selv. Da slipper dere å forholde dere til mersalg og byråer som kun leverer større team med kompetanse dere egentlig ikke har behov for.
+*«Frihet til å velge prosjekter, kunne gjøre andre ting i perioder, og tilpasse egen karriereutvikling og -verktøy.»*
 
-Se hvor mye dere kan spare og finn ledige konsulenter på [brainbase.no](https://brainbase.no).
+*«Jeg går inn som meg - ikke som et selskap og jeg bryr meg ikke om verdier og slagord fra et konsulentselskap og ikke har jeg interesse av å rekruttere til der jeg jobber - jeg er 100% helt meg selv i person uten noen andre hensikter enn å gjøre en knall jobb! Føles som en frihet å bare være meg selv og ikke «hun fra selskap X» eller lignende.»*
+
+*«Det er lettere å fokusere på å skape nytteverdi: Man er bare ansvarlig for skape verdi for kunden som betaler for arbeidet, og har ingen økonomiske eller tidsmessige krav fra et mellomledd. Tid brukt på kompetanseheving, sosiale/veldedige tjenester eller eget rekreasjonsbehov trenger ikke innarbeides igjen. Man sitter igjen med hoveddelen av verdien man skaper; og verdien skapes av arbeidet man gjør.»*
+
+
+###Fordeler for bedrifter
+
+Vi lurte også på hvilke fordeler konsulentene selv mener bedriftene får når de leier inn selvstendige. Fritekstsvarene kan oppsummeres til:
+
+
+- Mer for pengene
+- Økt engasjement og motivasjon
+- Det man ser, er det man får
+- Dedikerte konsulenter
+- Enklere prosess
+
+##Sagt med egne ord
+
+*«De får en konsulent som er motivert av eget initiativ og ikke sendt ut av et selskap. De får en person som er tilstedet uten overhead fra konsulentskap som «ledersamtaler», sosiale eventer osv. De får en konsulent som er tilstede uten andre intensjoner enn å gjøre en bra jobb! De får en motivert person som selv har solgt seg inn fordi personen synes selskapet og oppdraget virker spennende. Du får en person du kan ha en direkte dialog med - ingenting via selger broker etc (hvis direkte eller via bb).»*
+
+*«De får selvstendige og drevne personer som i større grad motiveres av å levere verdi da det er med å bygge deres eget brand.»*
+
+*«Jeg har observert et tydelig skille i dedikasjon til jobben og kompetanse-nivå. Jeg jobber med et par andre selvstendige konsulenter nå og de er helt ekstremt dyktige. Noe jeg aldri tror de ville fått gjennom et konsulenthus ala Itera, Netlight, Accenture, som markedsfører seg primært mot nyutdannede (og tjener mest på de).»*
+
+*«Kunder som leier inn selvstendige konsulenter, får fornøyde konsulenter som gjerne vil gjøre kundene fornøyde.»*
+
+Andre mener at det ikke er så stor forskjell, og at det kommer an på person og ikke hvilken måte man er leid inn på.
+
+«Dette er personavhengig, og har ikke nødvendigvis så mye med om du er via konsulenthus eller som selvstendig.»
+
+*«Helt ærlig tror jeg ikke det er noen fordel. 99% koker ned til hvor flink konsulenten er uavhenging av tilhørlighet.»*
+
+###Oppdrag og prosjekter
+
+91 % av konsulentene som svarte på undersøkelsen har jobb nå, og for 77 % av disse er oppdragt tidsbestemt. Så, hvordan finner folk oppdrag og prosjekter som selvstendig konsulent?
+
+![Hvordan konsulentene finner oppdrag](./Survey-02.png)
+
+####Kontrakter
+Det er et lite flertall på 58,4 % som har kontrakt via konsulenthus, megler eller lignende, mens de resterende 41,4 % har kontrakt direkte med kunden.
+
+![Kontraktstyper](./Survey-03.png)
+
+
+####Mellomledd
+Blant de 73 konsulentene som har kontrakt via ett mellomled eller megler, finner vi hele 30 forskjellige konsulenthus eller meglere! De tre største er eWork, Brainbase og Folq.
+
+![Mellomledd](./Survey-04.png)
+
+
+56 av de 73 som har kontrakt via konsulent eller lignende, sa at disse tar en del av kontraktsverdien. Enten som et påslag eller som ett kutt i timeprisen. Det spenner fra 2 % til 25 %, med et gjennomsnitt på 7,8 %.
+
+####Bransjer
+
+![Bransjer](./Survey-05.png)
+
+Under annet er det mange forskjellige bransjer, men de eneste med mer en én respondent er shipping, helse og IoT.
+
+###Kompetanseheving og faglig utvikling
+
+Nesten alle sier at de bruker tid på kompetanseheving i løpet av en måned. Det er kun to av respondentene, eller 1,6 %, som svarer at de ikke bruker noe tid på dette. Det spenner fra 2 timer til 20 timer, med et gjennomsnitt på 9,7 timer— altså litt over en arbeidsdag i måneden.
+
+Hvordan folk bruker tid på å holde seg oppdatert faglig eller utvide kompetansen sin varierer, og her var det også mulig å krysse av for flere svar.
+
+![Typer av kompetanseutvikling](./Survey-06.png)
+
+###Veien fremover
+
+Som tidligere nevnt, hadde hele 91 % ett oppdrag når undersøkelsen ble sendt ut i august. Hvordan står det til utover høsten?
+
+![Oppdrag fremover](./Survey-07.png)
+
+Under annet finner vi svar som går på at konsulent er usikker på kontrakten blir forlenget, har flere leads eller forholder seg til korte oppdrag.
+
+I undersøkelsen spurte vi også om hvordan konsulentene har hatt det under korona, og hvordan de ser på økonomisk sikkerhet og fremtiden. Dette ser vi nærmere på i neste innlegg.
