@@ -21,7 +21,7 @@ export default function Template({ data, pageContext }) {
       <article className="content-wrapper content-wrapper--medium">
         <div className="section">
           <header className="post">
-            <h1>{post.frontmatter.title}</h1>
+            <h1 className="heading heading--level-1">{post.frontmatter.title}</h1>
             <div className="post-meta">
             <img src={post.frontmatter.author_image} alt="author" />
               <div>
@@ -56,7 +56,7 @@ export default function Template({ data, pageContext }) {
               <Link
                 to={`/post${previous.fields.slug}`}
                 rel="prev"
-                className="link link-button"
+                className="typography__link"
               >
                 ← {previous.frontmatter.title}
               </Link>
@@ -67,7 +67,7 @@ export default function Template({ data, pageContext }) {
               <Link
                 to={`/post${next.fields.slug}`}
                 rel="next"
-                className="link link-button"
+                className="typography__link"
               >
                 {next.frontmatter.title} →
               </Link>

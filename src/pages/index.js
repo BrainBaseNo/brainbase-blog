@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import { Link, graphql } from 'gatsby'
 import { getFormattedDate } from '../utils/dateUtil'
+import Hero from '../components/hero';
 
 const Post = ({ post, link }) => {
   const formattedDate = getFormattedDate(post.node.frontmatter.date)
@@ -9,11 +10,13 @@ const Post = ({ post, link }) => {
   return (
     <div className="card card--no-image">
       <div className="card__content-wrapper">
-        <h3 className="heading heading--level-3">
-          <Link to={link} className="link">
+        <h2 className="heading heading--level-3">
+          <span className="typography__link-wrapper">
+          <Link to={link} className="typography__link-header">
             {post.node.frontmatter.title}
           </Link>
-        </h3>
+          </span>
+        </h2>
         <p className="subtitle">Publisert: {formattedDate}</p>
         <p className="paragraph">{post.node.excerpt}</p>
       </div>
@@ -25,6 +28,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <section className="section">
       <div className="content-wrapper">
+        <Hero title="Dropp mellomleddet"/>
         {data.allMarkdownRemark.edges.map((node) => (
           <Post
             post={node}
