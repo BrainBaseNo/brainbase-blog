@@ -80,18 +80,18 @@ Andre mener at det ikke er så stor forskjell, og at det kommer an på person og
 
 91 % av konsulentene som svarte på undersøkelsen har jobb nå, og for 77 % av disse er oppdragt tidsbestemt. Så, hvordan finner folk oppdrag og prosjekter som selvstendig konsulent?
 
-![Hvordan konsulentene finner oppdrag](./Survey-02.png)
+![Hvordan konsulentene finner oppdrag](./Survey-03.png)
 
 ####Kontrakter
 Det er et lite flertall på 58,4 % som har kontrakt via konsulenthus, megler eller lignende, mens de resterende 41,4 % har kontrakt direkte med kunden.
 
-![Kontraktstyper](./Survey-03.png)
+![Kontraktstyper](./Survey-02.png)
 
 
 ####Mellomledd
 Blant de 73 konsulentene som har kontrakt via ett mellomled eller megler, finner vi hele 30 forskjellige konsulenthus eller meglere! De tre største er eWork, Brainbase og Folq.
 
-![Mellomledd](./Survey-04.png)
+![Mellomledd](./Survey-06.png)
 
 
 56 av de 73 som har kontrakt via konsulent eller lignende, sa at disse tar en del av kontraktsverdien. Enten som et påslag eller som ett kutt i timeprisen. Det spenner fra 2 % til 25 %, med et gjennomsnitt på 7,8 %.
@@ -108,7 +108,7 @@ Nesten alle sier at de bruker tid på kompetanseheving i løpet av en måned. De
 
 Hvordan folk bruker tid på å holde seg oppdatert faglig eller utvide kompetansen sin varierer, og her var det også mulig å krysse av for flere svar.
 
-![Typer av kompetanseutvikling](./Survey-06.png)
+![Typer av kompetanseutvikling](./Survey-04.png)
 
 ###Veien fremover
 
