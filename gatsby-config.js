@@ -72,7 +72,7 @@ module.exports = {
             options: {
               maxWidth: 590,
             }
-          }  
+          }
         ],
       },
     },
@@ -131,5 +131,11 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["UA-70852558-2"],
+      },
+    }
   ],
 }
