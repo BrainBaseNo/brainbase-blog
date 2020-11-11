@@ -41,6 +41,7 @@ module.exports = {
           'style-src': "'self' 'unsafe-inline' fonts.googleapis.com",
           'img-src':
             "'self' data: *.brainbase.no *.medium.com *.licdn.com www.google-analytics.com www.googletagmanager.com",
+          'connect-src': "'self' www.google-analytics.com www.googletagmanager.com",
         },
       },
     },
