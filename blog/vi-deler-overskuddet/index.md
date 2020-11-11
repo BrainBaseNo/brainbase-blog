@@ -6,11 +6,11 @@ author_image: "https://www.brainbase.no/profile-images/ng17HXn1eX/profilePicture
 description: Hvordan vi deler overskuddet
 ---
 
-Brainbase er ikke et alternativ til konsulentmeglere — målet vårt er gjøre noe helt annet. Hvordan vi deler overskuddet vårt på er et eksempel på det.
+BrainBase er ikke et alternativ til konsulentmeglere — målet vårt er gjøre noe helt annet. Hvordan vi deler overskuddet vårt på er et eksempel på det.
 
 ![Dele overskudd](./dele-overskudd.png)
 
-Tanken bak Brainbase dukket opp i 2015 fordi vi ville gjøre noe annerledes. Det var mye som var galt med hvordan selvstendige konsulenter fant oppdrag på. Høye påslag og mellomledd. Hæren av meglere og konsulentselskap som stod mellom oss og kundene. Kontrakter med lange klausuler og karantener. Målet vårt har aldri vært å være en *bedre* konsulentmegler. Vi utfordrer selve behovet for det å måtte ha et ledd mellom konsulenter og kunder. Ikke nok med det, vi demonstrerer også at meglere og konsulentselskap holder på med noe helt annet enn oss. Målene og insentivene deres er ikke alltid det beste for verken kunder eller konsulenter.
+Tanken bak BrainBase dukket opp i 2015 fordi vi ville gjøre noe annerledes. Det var mye som var galt med hvordan selvstendige konsulenter fant oppdrag på. Høye påslag og mellomledd. Hæren av meglere og konsulentselskap som stod mellom oss og kundene. Kontrakter med lange klausuler og karantener. Målet vårt har aldri vært å være en *bedre* konsulentmegler. Vi utfordrer selve behovet for det å måtte ha et ledd mellom konsulenter og kunder. Ikke nok med det, vi demonstrerer også at meglere og konsulentselskap holder på med noe helt annet enn oss. Målene og insentivene deres er ikke alltid det beste for verken kunder eller konsulenter.
 
 Det vi tenkte for fem år siden, var at hvis hver enkelt konsulent, med sitt lille nettverk, bare hjelper og deler med andre konsulenter. Da trenger vi kanskje ikke noe mellomledd lengre.
 
@@ -31,12 +31,12 @@ Når konsulenter formidler oppdrag, får de en prosent av kontraktsverdien. Mål
 I løpet av det siste året har omtrent 300 000 kroner blitt delt ut til medlemmer på denne måten.
 
 #### Arbeid med nettverket
-Det å belønne folk for å arbeide med nettverket er min favoritt. Tanken var å hjelpe folk i nettverket med små jobber. Det er fint for folk som har litt ekstra tid, eller er mellom oppdrag. Som selvstendige konsulenter vet vi at det var være tøft å ikke ha ett oppdrag. Vi ville at Brainbase også skal være et sted der medlemmer kan bidra, og få litt penger for arbeidet de legger ned.
+Det å belønne folk for å arbeide med nettverket er min favoritt. Tanken var å hjelpe folk i nettverket med små jobber. Det er fint for folk som har litt ekstra tid, eller er mellom oppdrag. Som selvstendige konsulenter vet vi at det var være tøft å ikke ha ett oppdrag. Vi ville at BrainBase også skal være et sted der medlemmer kan bidra, og få litt penger for arbeidet de legger ned.
 
 I 2020 har 600 000 kroner blitt utbetalt til medlemmer som har jobbet med nettverket.  
 
 #### Utbytte til eiere
-Alle medeiere i Brainbase er selv selvstendige konsulenter eller små selvstendige konsulentselskap. De er alle medlemmer, og bidrar med å utvide, bygge og forbedre nettverket. Pengene som er igjen går til de i form av utbytte.
+Alle medeiere i BrainBase er selv selvstendige konsulenter eller små selvstendige konsulentselskap. De er alle medlemmer, og bidrar med å utvide, bygge og forbedre nettverket. Pengene som er igjen går til de i form av utbytte.
 
 Vi hadde et overskudd på 410 000 kroner etter skatt (vi liker å betale skatt!). Vi delte ut 400 000 kroner delt mellom medeiere, nesten 100 % av overskuddet.  
 
