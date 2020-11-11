@@ -37,10 +37,10 @@ module.exports = {
         directives: {
           'default-src': "'self'",
           'font-src': "'self' fonts.gstatic.com",
-          'script-src': "'self' 'unsafe-eval' www.google-analytics.com",
+          'script-src': "'self' 'unsafe-eval' www.google-analytics.com www.googletagmanager.com",
           'style-src': "'self' 'unsafe-inline' fonts.googleapis.com",
           'img-src':
-            "'self' data: *.brainbase.no *.medium.com *.licdn.com www.google-analytics.com",
+            "'self' data: *.brainbase.no *.medium.com *.licdn.com www.google-analytics.com www.googletagmanager.com",
         },
       },
     },
