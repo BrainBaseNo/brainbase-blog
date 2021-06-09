@@ -1,12 +1,12 @@
 ---
 title: Hva bør du tenke på ved oppstart som selvstendig konsulent?
-date: "2021-07-04T12:00:00.000Z"
+date: "2021-05-04T12:00:00.000Z"
 author: "Ketil Jensen"
 author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Hva bør du tenke på ved oppstart som selvstendig konsulent"
 ---
 
-Vi ble nylig spurt av Digi om hva som er viktig å tenke på dersom en ønsker å starte opp som selvstendig konsulent. For å komme opp med et best mulig svar involverte vi nettverket i utformingen av svar. [Artikkelen i Digi kan du lese her] (https://www.digi.no/artikler/jobber-du-som-selvstendig-it-konsulent-dette-ma-du-vite-for-a-sikre-deg-okonomisk/507176) (bak betalingsmur).
+Vi ble nylig spurt av Digi om hva som er viktig å tenke på dersom en ønsker å starte opp som selvstendig konsulent. For å komme opp med et best mulig svar involverte vi nettverket i utformingen av svar. [Artikkelen i Digi kan du lese her] (https://www.digi.no/artikler/jobber-du-som-selvstendig-it-konsulent-dette-ma-du-vite-for-a-sikre-deg-okonomisk/507176?key=WlwHQXB3).
 
 Her kan du lese hva vi i BrainBase tror er viktig hvis man skal starte som selvstendig konsulent:
 
