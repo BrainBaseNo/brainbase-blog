@@ -1,6 +1,7 @@
 ---
 title: Hva bør du tenke på ved oppstart som selvstendig konsulent?
 date: "2021-05-04T12:00:00.000Z"
+
 author: "Ketil Jensen"
 author_image: "https://www.brainbase.no/profile-images/l4A7baxXnf/profilePicture.jpg"
 description: "Hva bør du tenke på ved oppstart som selvstendig konsulent"
@@ -8,10 +9,10 @@ description: "Hva bør du tenke på ved oppstart som selvstendig konsulent"
 
 Vi ble nylig spurt av Digi om hva som er viktig å tenke på dersom en ønsker å starte opp som selvstendig konsulent. For å komme opp med et best mulig svar involverte vi nettverket i utformingen av svar. [Artikkelen i Digi kan du lese her] (https://www.digi.no/artikler/jobber-du-som-selvstendig-it-konsulent-dette-ma-du-vite-for-a-sikre-deg-okonomisk/507176?key=WlwHQXB3).
 
+
 Her kan du lese hva vi i BrainBase tror er viktig hvis man skal starte som selvstendig konsulent:
 
-### Hva bør jeg tenke på hvis jeg skal etablere meg som selvstendig IT-konsulent?
-Tenk godt gjennom hva det betyr å være selvstendig konsulent før du tar steget. Vurder  om kompetansen og erfaringen din er etterspurt i markedet. Har du samme type kompetanse som mange andre, men lite erfaring, er det lurt å å bygge kompetanse i noen år til før du blir selvstendig.
+Tenk godt gjennom hva det betyr å være selvstendig konsulent før du tar steget. Vurder om kompetansen og erfaringen din er etterspurt i markedet. Har du samme type kompetanse som mange andre, men lite erfaring, er det lurt å å bygge kompetanse i noen år til før du blir selvstendig.
 
 Det er også smart å bygge profil, ved å holde foredrag på meetups og konferanser, skrive blogg eller artikler, delta i open-source prosjekter og lignende. På den måten får du demonstrert kompetansen din på mange forskjellige måter.
 
@@ -25,8 +26,8 @@ Et eget AS gjør også lønnsutbetalinger mer fleksibelt. I gode tider trenger d
 
 Det kan være vrient å søke sykepenger som selvstendige konsulent. Hvis NAV mistenker at selskapet kun har en ansatt, kan det være at du må sende inn alt fra timelister, arbeidskontrakter, utskrifter av private kontoutskrifter (som du har lov til å sladde). Men som ansatt i eget AS kan du permittere deg selv ved mangel på oppdrag i lengre perioder.
 
-### Pensjon
-Banken din kommer til tilby deg pensjonssparing rimelig kjapt! Pass på gebyrer og sjekk alternative spareformer. Du kan for eksempel kjøpe  aksjer med fritaksmetoden og kapitalforsikring eid av ditt foretak. Så lenge du kun har en ansatt er du ikke pliktig til å ha pensjonsavtale. Vi tror likevel det er lurt å ha en god pensjonsavtale, gjerne i kombinasjon med alternativ sparing i aksjer og fond.
+
+Banken din kommer til tilby deg pensjonssparing rimelig kjapt! Pass på gebyrer og sjekk alternative spareformer. Du kan for eksempel kjøpe aksjer med fritaksmetoden og kapitalforsikring eid av ditt foretak. Så lenge du kun har en ansatt er du ikke pliktig til å ha pensjonsavtale. Vi tror likevel det er lurt å ha en god pensjonsavtale, gjerne i kombinasjon med alternativ sparing i aksjer og fond.
 
 ### Signere som underleverandør via et annet konsulentselskap
 Les godt gjennom avtaler før du signerer. Headhunters og andre konsulentbyråer pleier å legge inn klausuler som koster deg penger hvis du bryter avtalen, tvinger deg i karantene eller hindrer deg fra å bygge ditt eget varemerke. Unngå unødvendige mellomledd som bruker deg som bank med fakturaperioder på 60-90 dager eller tar en stor del av timeprisen din. Flere selskaper er grådige og tar 25 % eller mer av timeprisen din for å i praksis skyfle en faktura.
@@ -46,7 +47,8 @@ Det er omtrent 550 medlemmer i nettverket vårt og vi vokser støtt og stadig. V
 
 
 ### Hva koster tjenestene deres (både for konsulenten og for kunden)?
-Det er helt gratis å bli med i Brainbase, både for konsulenter og for bedrifter. Når en konsulent får et oppdrag via Brainbase tar vi 3% av den avtalte timeprisen. De resterende 97% går til konsulenten. Så vidt vi vet er det den beste modellen på markedet og en modell som både konsulenter og kunder tjener på. De få prosentene vi tar bruker vi til å videreutvikle plattformen og overskuddet går rett tilbake til medlemmene.
+Det er omtrent 550 medlemmer i nettverket vårt og vi vokser støtt og stadig. Vi har konsulenter i et bredt spekter innenfor teknologi, design og relaterte tjenester: utviklere, IT-sikkerhet, forskjellige designdisipliner, forretningsutvikling, rådgivning, prosjekt- og produktledelse.
+
 
 ### Hvordan er markedet nå, innen hvilke områder i IT-bransjen er det størst og minst etterspørsel etter konsulenter?
 Markedet har for tiden stor etterspørsel etter flinke og erfarne folk. Noen hevder at det er enda større etterspørsel enn før korona, bortsett fra for juniorkonsulenter. Det virker som det er store omstillinger på gang i mange bransjer - på høy tid mener vi.
