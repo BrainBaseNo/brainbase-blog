@@ -119,6 +119,7 @@ header.section--green-bg .paragraph--preamble {
   margin-bottom: 2rem;
   border-radius: 5px;
   opacity: 99%;
+  line-height: 1.6;
 }
 .section-break {
   height: 3rem;
