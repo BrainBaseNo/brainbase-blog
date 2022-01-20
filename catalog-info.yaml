@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: brainbase-blog
+  annotations:
+    github.com/project-slug: BrainBaseNo/brainbase-blog
+spec:
+  type: other
+  lifecycle: unknown
+  owner: acme-corp
