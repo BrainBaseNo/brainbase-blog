@@ -4,7 +4,7 @@ metadata:
   name: brainbase-blog
   annotations:
     github.com/project-slug: BrainBaseNo/brainbase-blog
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
