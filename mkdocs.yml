@@ -1,0 +1,7 @@
+site_name: 'brainbase-blog-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
