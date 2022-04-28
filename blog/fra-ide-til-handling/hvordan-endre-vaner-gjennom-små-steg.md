@@ -19,6 +19,8 @@ Her er en kort video av BJ Fogg beskriver hvor effektivt det er å endre vaninge
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdKUJxjn-R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/><br/>
+
 ### Hvordan komme i gang? - Det er enklere enn du tror
 Har du et "pet project" som du sliter med å komme i gang med? Eller kanskje du sitter inne med en god idé men sliter med å finne tid til gjennomføring? Det er enklere å komme i gang enn du tror. Det handler i all hovedsak om å trene på å utvikle nye vaner (forutsetter at du har et problem som det er verdt å løse):
 
