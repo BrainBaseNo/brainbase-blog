@@ -20,7 +20,6 @@ Her er en kort video av BJ Fogg beskriver hvor effektivt det er å endre vaninge
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdKUJxjn-R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
-
 ### Hvordan komme i gang? - Det er enklere enn du tror
 Har du et "pet project" som du sliter med å komme i gang med? Eller kanskje du sitter inne med en god idé men sliter med å finne tid til gjennomføring? Det er enklere å komme i gang enn du tror. Det handler i all hovedsak om å trene på å utvikle nye vaner (forutsetter at du har et problem som det er verdt å løse):
 
@@ -30,4 +29,4 @@ Har du et "pet project" som du sliter med å komme i gang med? Eller kanskje du 
 Når du har innarbeidet den nye vanen vil du sannsynligvis oppleve at du utvider tiden du bruker når du først setter deg ned for å jobbe, eller at du jobber hyppigere med å løse problemet.
 
 ### Eat your own dog food
-Denne bloggposten ble skrevet forrige torsdag, i løpet av en halvtimes økt. Den ble ikke hundre prosent ferdig, men det ble den i dag (torsdag 28.april). Planen fremover er å bruke 30 min hver torsdag til å skrive en ny post. Så forhåpentligivs kommer det en hver uke :) 
+Denne bloggposten ble skrevet forrige torsdag, i løpet av en halvtimes økt. Den ble ikke hundre prosent ferdig, men det ble den i dag (torsdag 28.april). Planen fremover er å bruke 30 min hver torsdag til å skrive en ny post. Forhåpentligivs kommer det en ny post hver uke 😊
