@@ -15,11 +15,13 @@ Det som skjedde var interessant. Siden vi satte av såpass lite tid var det fakt
 
 Etterhvert som vi ble vant til å sette av en fast tid i uken opplevde vi etterhvert at en halvtime ble 1 time, 2 timer eller mer. Vi startet også å jobbe mer enn 1 dag i uken og i løpet av kort tid hadde vi bygd en første versjon av en tosidig plattform der kunder og konsulenter kunne finne frem til hverandre. Den første versjonen var veldig enkel og fokuserte på at kunder kunne legge inn oppdrag som konsulenter kunne søke på.
 
-Her er en kort video av BJ Fogg beskriver hvor effektivt det er å endre vaninger gjennom små steg.
+### BJ Fogg forklarer nøkkelen til å endre vaner
+I denne TedX presentasjonen forklarer BJ Fogg hvor effektivt det er å endre vaninger gjennom små steg.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AdKUJxjn-R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+`youtube: https://www.youtube.com/watch?v=AdKUJxjn-R8`
 
-<br/><br/>
+<br/>
+
 ### Hvordan komme i gang? - Det er enklere enn du tror
 Har du et "pet project" som du sliter med å komme i gang med? Eller kanskje du sitter inne med en god idé men sliter med å finne tid til gjennomføring? Det er enklere å komme i gang enn du tror. Det handler i all hovedsak om å trene på å utvikle nye vaner (forutsetter at du har et problem som det er verdt å løse):
 
