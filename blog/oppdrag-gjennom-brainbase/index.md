@@ -8,7 +8,7 @@ description: "Hvor mye sparer en egentlig på å ta oppdrag gjennom BrainBase?"
 
 Vi har mange gode dialoger på vår Slack kanal. Noen ganger diskuteres ulike brokers også og i en slik anledning kom følgende kommentar fra et av medlemmene i nettverket:
 
-> “men hva er egentlig forskjellen på Folq, Brainbase og Prodata – bortsett fra 7 %, 3 % og x % ?”
+> *“men hva er egentlig forskjellen på Folq, Brainbase og Prodata – bortsett fra 7 %, 3 % og x % ?”*
 
 **Grunn nr 1: Det er mye penger å tjene på å velge et oppdrag hvor en gir fra seg 3% i stedet for 7, 10 eller 20%**
 
@@ -23,12 +23,15 @@ I regnestykket antar vi også følgende:
 
 Over 1 år vil mellomleddet i dette tilfellet ta:
 
-1200 kr/time * 1600 timer * 7% = 138 600 NOK
-
+```
+ 1200 kr/time * 1600 timer * 7% = 138 600 NOK
+```
 
 Til sammenlikning ville BrainBase tatt:
 
+```
 1200 * 1600 * 0.03 = 59 400 NOK
+```
 
 **Det vil si at  du sitter igjen med 79 200 kr ekstra per år ved å velge BrainBase**
 
