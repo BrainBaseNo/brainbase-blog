@@ -31,8 +31,8 @@ Til sammenlikning ville BrainBase tatt:
 
 **Det vil si at  du sitter igjen med 79 200 kr ekstra per år ved å velge BrainBase**
 
-## Hva kan en få for 80 000 kr?
-80 000 kr er mye penger. Her er noen forslag til hva du kan gjøre med pengene.
+## Hva kan en få for 79 200 kr?
+79 200 kr er mye penger. Her er noen forslag til hva du kan gjøre med pengene.
 
 #### Regnskapstjenester, forsikring mm
 Mange av konsulentene i nettverket vårt fører sitt eget regnskap, mens andre (inkludert meg selv) har regnskapsfører som gjør det meste. Forsikringer er noe alle som driver eget selskap trenger. Når du velger oppdrag gjennom BrainBase i stedet for gjennom broker vil du ha råd til å betale for begge disse tingene med de ekstra inntektene du får. I tillegg til litt andre tring som du kanskje trenger.
