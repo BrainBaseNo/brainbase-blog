@@ -10,7 +10,7 @@ Vi har mange gode dialoger på vår Slack kanal. Noen ganger diskuteres ulike br
 
 > “men hva er egentlig forskjellen på Folq, Brainbase og Prodata – bortsett fra 7 %, 3 % og x % ?”
 
-**Grunn nr 1: Det er mye penger å tjene på å velge et oppdrag hvor en gir fra seg 3% i stedet for 7 eller x%**
+**Grunn nr 1: Det er mye penger å tjene på å velge et oppdrag hvor en gir fra seg 3% i stedet for 7, 10 eller 20%**
 
 La oss se på et konkret eksempel:
 
@@ -28,21 +28,22 @@ Over 1 år vil mellomleddet i dette tilfellet ta:
 
 Til sammenlikning ville BrainBase tatt:
 
-	1200 * 1600 * 0.03 = 59 400 NOK
+1200 * 1600 * 0.03 = 59 400 NOK
 
 **Det vil si at  du sitter igjen med 79 200 kr ekstra per år ved å velge BrainBase**
 
 ## Hva kan en få for 80 000 kr?
-80 000 kr er mye penger. Her er et forslag til hva du kan gjøre med pengene:
+80 000 kr er mye penger. Her er noen forslag til hva du kan gjøre med pengene.
 
 #### Regnskapstjenester, forsikring mm
-	* Regnkapsfører i 1 år ( ca 40 000 kr)
-	* Alle nødvendige forsikringer (ca 20 000 kr)
-	* 20 000 kr til diverse lisenser osv, konferanser, videreutdanning eller liknende
+Mange av konsulentene i nettverket vårt fører sitt eget regnskap, mens andre (inkludert meg selv) har regnskapsfører som gjør det meste. Forsikringer er noe alle som driver eget selskap trenger. Når du velger oppdrag gjennom BrainBase i stedet for gjennom broker vil du ha råd til å betale for begge disse tingene med de ekstra inntektene du får. I tillegg til litt andre tring som du kanskje trenger.
 
-### Eller hva med å plassere pengene i fond?
-Så langt har 2022 vært et turbulent år i aksjemarkedet. I dag, 13.juni, er det blodrødt på børsene. Men historisk sett har investering i fond gitt god avkastning.
-I 2021 var avkastningen på Oslo Børs på 23% (se diagrammet under).
+* Regnkapsfører i 1 år ( ca 40 000 kr)
+* Alle nødvendige forsikringer (ca 20 000 kr)
+* 20 000 kr til diverse lisenser osv, konferanser, videreutdanning eller liknende
+
+#### Eller hva med å plassere pengene i fond?
+Så langt har 2022 vært et turbulent år i aksjemarkedet. I dag, 13.juni, er det blodrødt på børsene. Men historisk sett har investering i fond gitt god avkastning. I 2021 var avkastningen på Oslo Børs på 23% (se diagrammet under).
 
 ![Avkastning Oslo Børs 2021](./avkastning-oslo-bors.png)
 
