@@ -23,15 +23,11 @@ I regnestykket antar vi også følgende:
 
 Over 1 år vil mellomleddet i dette tilfellet ta:
 
-```
- 1200 kr/time * 1600 timer * 7% = 138 600 NOK
-```
+`1200 kr/time * 1600 timer * 7% = 138 600 NOK`
 
 Til sammenlikning ville BrainBase tatt:
 
-```
-1200 * 1600 * 0.03 = 59 400 NOK
-```
+`1200 * 1600 * 0.03 = 59 400 NOK`
 
 **Det vil si at  du sitter igjen med 79 200 kr ekstra per år ved å velge BrainBase**
 
