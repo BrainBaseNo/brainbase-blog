@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 import { Link, graphql } from 'gatsby'
 import { getFormattedDate } from '../utils/dateUtil'
 import Hero from '../components/hero';
+import '../components/blog-index.css'
 
 const Post = ({ post, link }) => {
   const formattedDate = getFormattedDate(post.node.frontmatter.date)

@@ -1,0 +1,8 @@
+/* 
+    For styles related to the listing of blog posts on the index 
+
+    Currently we have to use a lot of overrides, as we have a hefty 2000 line CSS
+    imported from the main application that we haven't taken the time to decouple.
+
+*/
+
