@@ -6,7 +6,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import Header from './header'
 import icon32 from '../../assets/favicon.ico'
 
-import './new-design.css'
+import './styles-from-main-site.css'
 
 const Layout = ({ children }) => (
   <StaticQuery

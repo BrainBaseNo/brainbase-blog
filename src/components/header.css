@@ -1,0 +1,37 @@
+/* 
+    For styles related to the header
+
+    Currently we have to use a lot of overrides, as we have a hefty 2000 line CSS
+    imported from the main application that we haven't taken the time to decouple.
+
+*/
+
+.site-header__blog-marker {
+    background-color: #034a46;
+    color: white;
+    padding: 0.5em;
+    border-radius: 0.2em;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    position: absolute;
+    transform: scale(0.5) rotate(-12deg) translate(-40px, -46px);
+}
+
+@media screen and (max-width: 550px) { 
+    /* Nudge the marker a little to the left and top on mobile */
+    .site-header__blog-marker {
+        transform: scale(0.5) rotate(-12deg) translate(-55px, -56px);
+    }
+}
+
+.site-header__site-name:hover {
+    text-decoration: none;
+}
+
+.site-header__site-name-link:hover .site-header__site-name-text {
+    color: #e78e74;
+}
+
+.site-header__site-name-link:hover .site-header__blog-marker {
+    background-color: #e78e74;
+}

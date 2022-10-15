@@ -1,34 +1,15 @@
 import React from 'react'
+import './hero.css'
 
 const Hero = ({ title }) => (
-  <article className="home-page__right-people--article">
-    <Title align="center">Dropp mellomleddet</Title>
-    <Paragraph big align="center">
-      Brainbase er et nettverk med over 450 flinke og erfarne konsulenter i teknologibransjen. 
-      Her kan du lese litt om våre erfaringer.
-    </Paragraph>
-  </article>
+  <section className="blog-hero">
+    <p className="typography__paragraph ">
+      <a className="typography__link" href="https://www.brainbase.no/">BrainBase</a> er et nettverk av over 800 konsulenter i teknologibransjen. 
+    </p>
+    <p className="typography__paragraph blog-hero__last-paragraph">
+      Her kan du lese litt om våre <span style={{display: "inline-block"}}>erfaringer. 👇</span>
+    </p>
+  </section>
 )
-
-const Title = ({ align, children, className, ...props }) => (
-  <h1
-      {...props}
-      style={{ textAlign: align || undefined, ...props.style }}
-      className={`typography__title ${className || ""}`}
-  >
-      {children}
-  </h1>
-);
-
-const Paragraph = ({ big, align, children, className, ...props }) => (
-  <p
-      {...props}
-      style={{ textAlign: align || undefined, ...props.style }}
-      className={`typography__paragraph${(big && "--big") || ""} ${className || ""}`}
-  >
-      {children}
-  </p>
-);
-
 
 export default Hero

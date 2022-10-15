@@ -3,12 +3,13 @@ import Layout from '../components/layout'
 import { Link, graphql } from 'gatsby'
 import { getFormattedDate } from '../utils/dateUtil'
 import Hero from '../components/hero';
+import './blog-index.css'
 
 const Post = ({ post, link }) => {
   const formattedDate = getFormattedDate(post.node.frontmatter.date)
 
   return (
-    <div className="card card--no-image">
+    <div className="blog-index-list__item card card--no-image">
       <div className="card__content-wrapper">
         <h2 className="heading heading--level-3">
           <span className="typography__link-wrapper">
@@ -17,8 +18,8 @@ const Post = ({ post, link }) => {
           </Link>
           </span>
         </h2>
-        <p className="subtitle">Publisert: {formattedDate}</p>
-        <p className="paragraph">{post.node.excerpt}</p>
+        <p className="blog-index-list__item__excerpt">{post.node.excerpt}</p>
+        <p className="blog-index-list__item__date">{formattedDate}</p>
       </div>
     </div>
   )
@@ -29,6 +30,7 @@ const IndexPage = ({ data }) => (
     <section className="section">
       <div className="content-wrapper">
         <Hero title="Dropp mellomleddet"/>
+        <div class="blog-index-list">
         {data.allMarkdownRemark.edges.map((node) => (
           <Post
             post={node}
@@ -36,6 +38,7 @@ const IndexPage = ({ data }) => (
             key={node.node.frontmatter.title + node.node.frontmatter.date}
           />
         ))}
+        </div>
       </div>
     </section>
   </Layout>
