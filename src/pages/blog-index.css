@@ -44,6 +44,7 @@
 @media screen and (max-width: 45em) { 
     .blog-index-list__item .typography__link-header {
         font-size: 1.5em;
+        border-bottom-width: 3px;
     }
     .blog-index-list__item h2.heading {
         margin-bottom: 1em;
