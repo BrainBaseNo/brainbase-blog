@@ -1,5 +1,5 @@
 import React from 'react'
-import './new-design.css'
+import './styles-from-main-site.css'
 
 const Header = () => (
   <header className="site-header">
