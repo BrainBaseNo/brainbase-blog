@@ -1,5 +1,6 @@
 import React from 'react'
 import './styles-from-main-site.css'
+import './header.css'
 
 const Header = () => (
   <header className="site-header">
@@ -12,11 +13,12 @@ const Header = () => (
                       alt=""
                   />
                   <span className="site-header__site-name-text">BrainBase</span>
+                  <span className='site-header__blog-marker'>blogg</span>
               </a>
           </div>
           <div className="site-header__toolbar">
             <a href="https://www.brainbase.no/" className="typography__link">
-                BrainBase.no
+                Til BrainBase.no
             </a>
           </div>
       </div>
