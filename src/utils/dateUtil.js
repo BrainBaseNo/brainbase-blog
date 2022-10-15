@@ -4,7 +4,7 @@ import 'moment/locale/nb'
 
 export function getFormattedDate(date) {
   moment.locale('nb')
-  return moment(date).format('MMM DD, YYYY')
+  return moment(date).format('D. MMMM YYYY')
 }
 
 export const getFormattedReadingTime = (milliseconds) =>

@@ -20,7 +20,6 @@ const Post = ({ post, link }) => {
         </h2>
         <p className="blog-index-list__item__excerpt">{post.node.excerpt}</p>
         <p className="blog-index-list__item__date">{formattedDate}</p>
-
       </div>
     </div>
   )
