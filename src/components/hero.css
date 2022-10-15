@@ -32,3 +32,10 @@
 .blog-hero p.blog-hero__last-paragraph {
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 45em) {
+    .blog-hero {
+        margin: 1em auto 2.5em auto;
+        padding: 2em 1em;
+    }
+}
