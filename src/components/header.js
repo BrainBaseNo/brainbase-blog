@@ -11,6 +11,8 @@ const Header = () => (
                       className="site-header__site-name-logo"
                       src="https://www.brainbase.no/public/images/logo/brain-green-dark-64.png"
                       alt=""
+                      width={32}
+                      height={32}
                   />
                   <span className="site-header__site-name-text">BrainBase</span>
                   <span className='site-header__blog-marker'>blogg</span>
