@@ -4,6 +4,7 @@
     margin-bottom: 3em;
 }
 
+
 header.post {
     margin-top: 3em;
 }
@@ -14,9 +15,25 @@ header.post {
     margin: 2em auto 2em auto;
 }
 
+
+@media screen and (max-width: 650px) {
+    .blog-post {
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+    }
+    header.post {
+        margin-top: 1.5em;
+    }
+}
 .post h1 {
     margin-bottom: 2rem;
     font-weight: bold;
+}
+
+@media screen and (max-width: 550px) {
+    .post h1 {
+        font-size: 1.5em;
+    }
 }
 
 .post h2 {
