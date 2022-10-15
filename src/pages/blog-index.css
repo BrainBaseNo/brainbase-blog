@@ -1,0 +1,51 @@
+/* 
+    For styles related to the listing of blog posts on the index 
+
+    Currently we have to use a lot of overrides, as we have a hefty 2000 line CSS
+    imported from the main application that we haven't taken the time to decouple.
+
+*/
+
+.blog-index-list {
+    max-width: 55ch;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.blog-index-list__item {
+    margin-bottom: 3em;
+}
+.blog-index-list__item .typography__link-header {
+    font-size: 1.8em;
+    line-height: 1.2;
+    border-bottom-width: 4px;
+}
+
+.blog-index-list__item h2.heading {
+    margin-bottom: 1.2em;
+}
+
+.blog-index-list__item .typography__link-header:hover {
+    border-color: #e78e74;
+}
+
+.blog-index-list__item__excerpt {
+    margin-bottom: 0.8em;
+}
+
+.blog-index-list__item__date {
+    font-size: 0.7em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    color: #5B8D74;
+}
+
+@media screen and (max-width: 45em) { 
+    .blog-index-list__item .typography__link-header {
+        font-size: 1.5em;
+    }
+    .blog-index-list__item h2.heading {
+        margin-bottom: 1em;
+    }
+}
