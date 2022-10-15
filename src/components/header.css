@@ -9,18 +9,19 @@
 .site-header__blog-marker {
     background-color: #034a46;
     color: white;
+    font-size: 50%;
     padding: 0.5em;
     border-radius: 0.2em;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     text-transform: capitalize;
-    position: absolute;
-    transform: scale(0.5) rotate(-12deg) translate(-40px, -46px);
+    display: inline-block;
+    transform: rotate(-12deg) translate(10px, -8px);
 }
 
 @media screen and (max-width: 550px) { 
     /* Nudge the marker a little to the left and top on mobile */
     .site-header__blog-marker {
-        transform: scale(0.5) rotate(-12deg) translate(-55px, -56px);
+        transform: rotate(-12deg) translate(0px, -8px);
     }
 }
 
